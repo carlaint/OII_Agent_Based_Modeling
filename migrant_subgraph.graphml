@@ -1,0 +1,3438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="id" attr.type="string" for="edge" id="d30"/>
+<key attr.name="countrycode" attr.type="string" for="edge" id="d29"/>
+<key attr.name="weight" attr.type="double" for="edge" id="d28"/>
+<key attr.name="y" attr.type="double" for="node" id="d27"/>
+<key attr.name="x" attr.type="double" for="node" id="d26"/>
+<key attr.name="b" attr.type="long" for="node" id="d25"/>
+<key attr.name="g" attr.type="long" for="node" id="d24"/>
+<key attr.name="r" attr.type="long" for="node" id="d23"/>
+<key attr.name="size" attr.type="double" for="node" id="d22"/>
+<key attr.name="Eigenvector Centrality" attr.type="double" for="node" id="d21"/>
+<key attr.name="Clustering Coefficient" attr.type="double" for="node" id="d20"/>
+<key attr.name="Strongly-Connected ID" attr.type="long" for="node" id="d19"/>
+<key attr.name="Component ID" attr.type="long" for="node" id="d18"/>
+<key attr.name="PageRank" attr.type="double" for="node" id="d17"/>
+<key attr.name="Modularity Class" attr.type="long" for="node" id="d16"/>
+<key attr.name="Hub" attr.type="double" for="node" id="d15"/>
+<key attr.name="Authority" attr.type="double" for="node" id="d14"/>
+<key attr.name="Betweenness Centrality" attr.type="double" for="node" id="d13"/>
+<key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="d12"/>
+<key attr.name="Closeness Centrality" attr.type="double" for="node" id="d11"/>
+<key attr.name="Eccentricity" attr.type="double" for="node" id="d10"/>
+<key attr.name="Weighted Degree" attr.type="double" for="node" id="d9"/>
+<key attr.name="Weighted Out-Degree" attr.type="double" for="node" id="d8"/>
+<key attr.name="Weighted In-Degree" attr.type="double" for="node" id="d7"/>
+<key attr.name="Degree" attr.type="long" for="node" id="d6"/>
+<key attr.name="Out-Degree" attr.type="long" for="node" id="d5"/>
+<key attr.name="In-Degree" attr.type="long" for="node" id="d4"/>
+<key attr.name="longitude" attr.type="double" for="node" id="d3"/>
+<key attr.name="latitude" attr.type="double" for="node" id="d2"/>
+<key attr.name="countrycode" attr.type="string" for="node" id="d1"/>
+<key attr.name="label" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="Philippines">
+  <data key="d0">Philippines</data>
+  <data key="d1">PH</data>
+  <data key="d2">12.879721</data>
+  <data key="d3">121.774017</data>
+  <data key="d4">0</data>
+  <data key="d5">31</data>
+  <data key="d6">31</data>
+  <data key="d7">0.0</data>
+  <data key="d8">101527.0</data>
+  <data key="d9">101527.0</data>
+  <data key="d10">3.0</data>
+  <data key="d11">0.8</data>
+  <data key="d12">0.8833333333333332</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.0</data>
+  <data key="d15">0.08419999</data>
+  <data key="d16">2</data>
+  <data key="d17">0.0009111660349697156</data>
+  <data key="d18">0</data>
+  <data key="d19">108</data>
+  <data key="d20">0.875268816947937</data>
+  <data key="d21">0.0</data>
+  <data key="d22">6.463934</data>
+  <data key="d23">198</data>
+  <data key="d24">134</data>
+  <data key="d25">233</data>
+  <data key="d26">935.1407</data>
+  <data key="d27">-89.05793</data>
+</node>
+<node id="Romania">
+  <data key="d0">Romania</data>
+  <data key="d1">RO</data>
+  <data key="d2">45.943161</data>
+  <data key="d3">24.96676</data>
+  <data key="d4">148</data>
+  <data key="d5">34</data>
+  <data key="d6">182</data>
+  <data key="d7">153499.0</data>
+  <data key="d8">252943.0</data>
+  <data key="d9">406442.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">112.14684250175263</data>
+  <data key="d14">0.17689669</data>
+  <data key="d15">0.085775316</data>
+  <data key="d16">1</data>
+  <data key="d17">0.01934800580548256</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.17704230546951294</data>
+  <data key="d21">0.8577039454452845</data>
+  <data key="d22">18.46568</data>
+  <data key="d23">0</data>
+  <data key="d24">202</data>
+  <data key="d25">255</data>
+  <data key="d26">86.80322</data>
+  <data key="d27">251.42935</data>
+</node>
+<node id="Norway">
+  <data key="d0">Norway</data>
+  <data key="d1">NO</data>
+  <data key="d2">60.472024</data>
+  <data key="d3">8.468946</data>
+  <data key="d4">165</data>
+  <data key="d5">33</data>
+  <data key="d6">198</data>
+  <data key="d7">67708.0</data>
+  <data key="d8">13545.0</data>
+  <data key="d9">81253.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8478260869565217</data>
+  <data key="d12">0.9102564102564102</data>
+  <data key="d13">89.09421113544069</data>
+  <data key="d14">0.19424823</data>
+  <data key="d15">0.08488422</data>
+  <data key="d16">0</data>
+  <data key="d17">0.022310298124031805</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.16014400124549866</data>
+  <data key="d21">0.9789597813276868</data>
+  <data key="d22">19.737387</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-57.769745</data>
+  <data key="d27">466.6789</data>
+</node>
+<node id="Slovenia">
+  <data key="d0">Slovenia</data>
+  <data key="d1">SI</data>
+  <data key="d2">46.151241</data>
+  <data key="d3">14.995463</data>
+  <data key="d4">100</data>
+  <data key="d5">30</data>
+  <data key="d6">130</data>
+  <data key="d7">12818.0</data>
+  <data key="d8">4092.0</data>
+  <data key="d9">16910.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.7959183673469388</data>
+  <data key="d12">0.8717948717948718</data>
+  <data key="d13">9.296549541718475</data>
+  <data key="d14">0.13026774</data>
+  <data key="d15">0.08083095</data>
+  <data key="d16">0</data>
+  <data key="d17">0.01895921156226018</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.2913573086261749</data>
+  <data key="d21">0.9270827317962699</data>
+  <data key="d22">14.332627</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-0.57683766</data>
+  <data key="d27">254.05652</data>
+</node>
+<node id="Estonia">
+  <data key="d0">Estonia</data>
+  <data key="d1">EE</data>
+  <data key="d2">58.595272</data>
+  <data key="d3">25.013607</data>
+  <data key="d4">46</data>
+  <data key="d5">37</data>
+  <data key="d6">83</data>
+  <data key="d7">3956.0</data>
+  <data key="d8">11069.0</data>
+  <data key="d9">15025.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.9285714285714286</data>
+  <data key="d12">0.9615384615384616</data>
+  <data key="d13">25.394608245461875</data>
+  <data key="d14">0.061962493</data>
+  <data key="d15">0.08954691</data>
+  <data key="d16">0</data>
+  <data key="d17">0.012902883685923941</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.5347749590873718</data>
+  <data key="d21">0.6700117673641917</data>
+  <data key="d22">10.596986</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">87.21375</data>
+  <data key="d27">434.23273</data>
+</node>
+<node id="Greece">
+  <data key="d0">Greece</data>
+  <data key="d1">GR</data>
+  <data key="d2">39.074208</data>
+  <data key="d3">21.824312</data>
+  <data key="d4">150</data>
+  <data key="d5">36</data>
+  <data key="d6">186</data>
+  <data key="d7">26793.0</data>
+  <data key="d8">37820.0</data>
+  <data key="d9">64613.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.9069767441860465</data>
+  <data key="d12">0.9487179487179487</data>
+  <data key="d13">149.77165421611076</data>
+  <data key="d14">0.18147577</data>
+  <data key="d15">0.08670671</data>
+  <data key="d16">0</data>
+  <data key="d17">0.021715133626940667</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.18180254101753235</data>
+  <data key="d21">0.9739502054533264</data>
+  <data key="d22">18.783607</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">59.265453</data>
+  <data key="d27">169.64325</data>
+</node>
+<node id="Czech Republic">
+  <data key="d0">Czech Republic</data>
+  <data key="d1">CZ</data>
+  <data key="d2">49.817492</data>
+  <data key="d3">15.472962</data>
+  <data key="d4">134</data>
+  <data key="d5">35</data>
+  <data key="d6">169</data>
+  <data key="d7">30009.0</data>
+  <data key="d8">10002.0</data>
+  <data key="d9">40011.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8863636363636364</data>
+  <data key="d12">0.9358974358974359</data>
+  <data key="d13">73.94049311578846</data>
+  <data key="d14">0.16581303</data>
+  <data key="d15">0.08740316</data>
+  <data key="d16">1</data>
+  <data key="d17">0.021057711449796984</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.20947831869125366</data>
+  <data key="d21">0.968606657854009</data>
+  <data key="d22">17.432415</data>
+  <data key="d23">0</data>
+  <data key="d24">202</data>
+  <data key="d25">255</data>
+  <data key="d26">3.607563</data>
+  <data key="d27">302.0848</data>
+</node>
+<node id="Luxembourg">
+  <data key="d0">Luxembourg</data>
+  <data key="d1">LU</data>
+  <data key="d2">49.815273</data>
+  <data key="d3">6.129583</data>
+  <data key="d4">142</data>
+  <data key="d5">23</data>
+  <data key="d6">165</data>
+  <data key="d7">22137.0</data>
+  <data key="d8">3180.0</data>
+  <data key="d9">25317.0</data>
+  <data key="d10">3.0</data>
+  <data key="d11">0.6842105263157895</data>
+  <data key="d12">0.7777777777777778</data>
+  <data key="d13">22.219721219949903</data>
+  <data key="d14">0.1729851</data>
+  <data key="d15">0.06417998</data>
+  <data key="d16">0</data>
+  <data key="d17">0.02116741559046093</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.19002525508403778</data>
+  <data key="d21">0.9712784316536676</data>
+  <data key="d22">17.11449</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-78.26996</data>
+  <data key="d27">302.05472</data>
+</node>
+<node id="Poland">
+  <data key="d0">Poland</data>
+  <data key="d1">PL</data>
+  <data key="d2">51.919438</data>
+  <data key="d3">19.145136</data>
+  <data key="d4">140</data>
+  <data key="d5">35</data>
+  <data key="d6">175</data>
+  <data key="d7">131570.0</data>
+  <data key="d8">194866.0</data>
+  <data key="d9">326436.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8863636363636364</data>
+  <data key="d12">0.9358974358974359</data>
+  <data key="d13">89.52974660646875</data>
+  <data key="d14">0.17107312</data>
+  <data key="d15">0.08739416</data>
+  <data key="d16">0</data>
+  <data key="d17">0.021463950505388966</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.19718310236930847</data>
+  <data key="d21">0.9706104882037532</data>
+  <data key="d22">17.909307</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">35.78741</data>
+  <data key="d27">331.27792</data>
+</node>
+<node id="Sweden">
+  <data key="d0">Sweden</data>
+  <data key="d1">SE</data>
+  <data key="d2">60.128161</data>
+  <data key="d3">18.643501</data>
+  <data key="d4">169</data>
+  <data key="d5">34</data>
+  <data key="d6">203</data>
+  <data key="d7">110157.0</data>
+  <data key="d8">32073.0</data>
+  <data key="d9">142230.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">103.7442886192407</data>
+  <data key="d14">0.19722489</data>
+  <data key="d15">0.08581825</data>
+  <data key="d16">0</data>
+  <data key="d17">0.02250829556568741</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.15483476221561432</data>
+  <data key="d21">0.9802956682275163</data>
+  <data key="d22">20.134796</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">31.3915</data>
+  <data key="d27">460.59695</data>
+</node>
+<node id="Slovakia">
+  <data key="d0">Slovakia</data>
+  <data key="d1">SK</data>
+  <data key="d2">48.669026</data>
+  <data key="d3">19.699024</data>
+  <data key="d4">87</data>
+  <data key="d5">33</data>
+  <data key="d6">120</data>
+  <data key="d7">5148.0</data>
+  <data key="d8">15956.0</data>
+  <data key="d9">21104.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8478260869565217</data>
+  <data key="d12">0.9102564102564102</data>
+  <data key="d13">22.56257872924954</data>
+  <data key="d14">0.11394542</data>
+  <data key="d15">0.08551815</data>
+  <data key="d16">1</data>
+  <data key="d17">0.018527300552683413</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.3355311453342438</data>
+  <data key="d21">0.9135651399136187</data>
+  <data key="d22">13.537811</data>
+  <data key="d23">0</data>
+  <data key="d24">202</data>
+  <data key="d25">255</data>
+  <data key="d26">40.64122</data>
+  <data key="d27">286.6681</data>
+</node>
+<node id="Iceland">
+  <data key="d0">Iceland</data>
+  <data key="d1">IS</data>
+  <data key="d2">64.963051</data>
+  <data key="d3">-19.020835</data>
+  <data key="d4">104</data>
+  <data key="d5">29</data>
+  <data key="d6">133</data>
+  <data key="d7">6369.0</data>
+  <data key="d8">5451.0</data>
+  <data key="d9">11820.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.78</data>
+  <data key="d12">0.8589743589743589</data>
+  <data key="d13">13.84549641383736</data>
+  <data key="d14">0.13350566</data>
+  <data key="d15">0.07783269</data>
+  <data key="d16">0</data>
+  <data key="d17">0.019311774483434734</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.269991010427475</data>
+  <data key="d21">0.9307469948136466</data>
+  <data key="d22">14.571074</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-298.66708</data>
+  <data key="d27">552.72534</data>
+</node>
+<node id="Ireland">
+  <data key="d0">Ireland</data>
+  <data key="d1">IE</data>
+  <data key="d2">53.41291</data>
+  <data key="d3">-8.24389</data>
+  <data key="d4">153</data>
+  <data key="d5">34</data>
+  <data key="d6">187</data>
+  <data key="d7">58705.0</data>
+  <data key="d8">19027.0</data>
+  <data key="d9">77732.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">130.42344538931644</data>
+  <data key="d14">0.18137288</data>
+  <data key="d15">0.085994974</data>
+  <data key="d16">0</data>
+  <data key="d17">0.022586728653824526</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.17435897886753082</data>
+  <data key="d21">0.9749521206281987</data>
+  <data key="d22">18.863089</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-204.227</data>
+  <data key="d27">352.86096</data>
+</node>
+<node id="United Kingdom">
+  <data key="d0">United Kingdom</data>
+  <data key="d1">GB</data>
+  <data key="d2">55.378051</data>
+  <data key="d3">-3.435973</data>
+  <data key="d4">153</data>
+  <data key="d5">0</data>
+  <data key="d6">153</data>
+  <data key="d7">76288.0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">76288.0</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.1818754</data>
+  <data key="d15">0.0</data>
+  <data key="d16">3</data>
+  <data key="d17">0.021288463955249116</data>
+  <data key="d18">0</data>
+  <data key="d19">1</data>
+  <data key="d20">0.1526917815208435</data>
+  <data key="d21">0.9168540222386211</data>
+  <data key="d22">16.16071</data>
+  <data key="d23">234</data>
+  <data key="d24">134</data>
+  <data key="d25">21</data>
+  <data key="d26">-162.09445</data>
+  <data key="d27">382.4476</data>
+</node>
+<node id="Switzerland">
+  <data key="d0">Switzerland</data>
+  <data key="d1">CH</data>
+  <data key="d2">46.818188</data>
+  <data key="d3">8.227512</data>
+  <data key="d4">182</data>
+  <data key="d5">32</data>
+  <data key="d6">214</data>
+  <data key="d7">156113.0</data>
+  <data key="d8">29367.0</data>
+  <data key="d9">185480.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8297872340425532</data>
+  <data key="d12">0.8974358974358975</data>
+  <data key="d13">105.90909333688022</data>
+  <data key="d14">0.20344995</data>
+  <data key="d15">0.084096625</data>
+  <data key="d16">0</data>
+  <data key="d17">0.023562708711988727</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.13733842968940735</data>
+  <data key="d21">0.9846373006519618</data>
+  <data key="d22">21.009096</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-59.88547</data>
+  <data key="d27">262.54492</data>
+</node>
+<node id="Hungary">
+  <data key="d0">Hungary</data>
+  <data key="d1">HU</data>
+  <data key="d2">47.162494</data>
+  <data key="d3">19.503304</data>
+  <data key="d4">126</data>
+  <data key="d5">34</data>
+  <data key="d6">160</data>
+  <data key="d7">38648.0</data>
+  <data key="d8">29657.0</data>
+  <data key="d9">68305.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">34.57975971246621</data>
+  <data key="d14">0.1594806</data>
+  <data key="d15">0.08693585</data>
+  <data key="d16">1</data>
+  <data key="d17">0.02058098635046824</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.22825823724269867</data>
+  <data key="d21">0.96593488405435</data>
+  <data key="d22">16.71708</data>
+  <data key="d23">0</data>
+  <data key="d24">202</data>
+  <data key="d25">255</data>
+  <data key="d26">38.926094</data>
+  <data key="d27">266.9682</data>
+</node>
+<node id="USA">
+  <data key="d0">USA</data>
+  <data key="d1">US</data>
+  <data key="d2">37.09024</data>
+  <data key="d3">-95.712891</data>
+  <data key="d4">219</data>
+  <data key="d5">0</data>
+  <data key="d6">219</data>
+  <data key="d7">978881.0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">978881.0</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.21410117</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.03192281615782263</data>
+  <data key="d18">0</data>
+  <data key="d19">3</data>
+  <data key="d20">0.09124042093753815</data>
+  <data key="d21">0.9969942544753838</data>
+  <data key="d22">21.406504</data>
+  <data key="d23">198</data>
+  <data key="d24">134</data>
+  <data key="d25">233</data>
+  <data key="d26">-970.7318</data>
+  <data key="d27">147.55307</data>
+</node>
+<node id="Cyprus">
+  <data key="d0">Cyprus</data>
+  <data key="d1">CY</data>
+  <data key="d2">35.126413</data>
+  <data key="d3">33.429859</data>
+  <data key="d4">95</data>
+  <data key="d5">27</data>
+  <data key="d6">122</data>
+  <data key="d7">1628.0</data>
+  <data key="d8">2134.0</data>
+  <data key="d9">3762.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.75</data>
+  <data key="d12">0.8333333333333334</data>
+  <data key="d13">9.546747916586165</data>
+  <data key="d14">0.12242264</data>
+  <data key="d15">0.07498355</data>
+  <data key="d16">2</data>
+  <data key="d17">0.019068758684664296</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.29981064796447754</data>
+  <data key="d21">0.9274228651910883</data>
+  <data key="d22">13.6967745</data>
+  <data key="d23">198</data>
+  <data key="d24">134</data>
+  <data key="d25">233</data>
+  <data key="d26">160.96672</data>
+  <data key="d27">126.24973</data>
+</node>
+<node id="Denmark">
+  <data key="d0">Denmark</data>
+  <data key="d1">DK</data>
+  <data key="d2">56.26392</data>
+  <data key="d3">9.501785</data>
+  <data key="d4">153</data>
+  <data key="d5">34</data>
+  <data key="d6">187</data>
+  <data key="d7">59758.0</data>
+  <data key="d8">26187.0</data>
+  <data key="d9">85945.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">78.47134626007878</data>
+  <data key="d14">0.18434957</data>
+  <data key="d15">0.08602213</data>
+  <data key="d16">0</data>
+  <data key="d17">0.02173313890491844</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.17717121541500092</data>
+  <data key="d21">0.9749521206281987</data>
+  <data key="d22">18.863089</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-48.718815</data>
+  <data key="d27">396.2669</data>
+</node>
+<node id="Australia">
+  <data key="d0">Australia</data>
+  <data key="d1">AU</data>
+  <data key="d2">-25.274398</data>
+  <data key="d3">133.775136</data>
+  <data key="d4">222</data>
+  <data key="d5">34</data>
+  <data key="d6">256</data>
+  <data key="d7">222.0</data>
+  <data key="d8">7275.0</data>
+  <data key="d9">7497.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">742.5937957696199</data>
+  <data key="d14">0.21184453</data>
+  <data key="d15">0.08610667</data>
+  <data key="d16">2</data>
+  <data key="d17">0.032434418928593015</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.0959722250699997</data>
+  <data key="d21">0.9979961696502558</data>
+  <data key="d22">24.34733</data>
+  <data key="d23">198</data>
+  <data key="d24">134</data>
+  <data key="d25">233</data>
+  <data key="d26">1040.3083</data>
+  <data key="d27">-431.92484</data>
+</node>
+<node id="Italy">
+  <data key="d0">Italy</data>
+  <data key="d1">IT</data>
+  <data key="d2">41.87194</data>
+  <data key="d3">12.56738</data>
+  <data key="d4">181</data>
+  <data key="d5">33</data>
+  <data key="d6">214</data>
+  <data key="d7">305191.0</data>
+  <data key="d8">75646.0</data>
+  <data key="d9">380837.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8478260869565217</data>
+  <data key="d12">0.9102564102564102</data>
+  <data key="d13">109.67880586571776</data>
+  <data key="d14">0.20385739</data>
+  <data key="d15">0.08507135</data>
+  <data key="d16">1</data>
+  <data key="d17">0.0234051180963108</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.13925516605377197</data>
+  <data key="d21">0.9843033289270042</data>
+  <data key="d22">21.009096</data>
+  <data key="d23">0</data>
+  <data key="d24">202</data>
+  <data key="d25">255</data>
+  <data key="d26">-21.854517</data>
+  <data key="d27">201.88014</data>
+</node>
+<node id="Germany">
+  <data key="d0">Germany</data>
+  <data key="d1">DE</data>
+  <data key="d2">51.165691</data>
+  <data key="d3">10.451526</data>
+  <data key="d4">191</data>
+  <data key="d5">39</data>
+  <data key="d6">230</data>
+  <data key="d7">83419.0</data>
+  <data key="d8">144380.0</data>
+  <data key="d9">227799.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.975</data>
+  <data key="d12">0.9871794871794872</data>
+  <data key="d13">511.62137827706607</data>
+  <data key="d14">0.20786335</data>
+  <data key="d15">0.08867544</data>
+  <data key="d16">0</data>
+  <data key="d17">0.02454849925003879</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.12669838964939117</data>
+  <data key="d21">0.9876430461765779</data>
+  <data key="d22">22.280804</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-40.396084</data>
+  <data key="d27">320.6572</data>
+</node>
+<node id="Croatia">
+  <data key="d0">Croatia</data>
+  <data key="d1">HR</data>
+  <data key="d2">45.1</data>
+  <data key="d3">15.2</data>
+  <data key="d4">101</data>
+  <data key="d5">33</data>
+  <data key="d6">134</data>
+  <data key="d7">10219.0</data>
+  <data key="d8">9962.0</data>
+  <data key="d9">20181.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8478260869565217</data>
+  <data key="d12">0.9102564102564102</data>
+  <data key="d13">23.19550024891611</data>
+  <data key="d14">0.12997314</data>
+  <data key="d15">0.08642193</data>
+  <data key="d16">0</data>
+  <data key="d17">0.018581467363894492</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.2839173376560211</data>
+  <data key="d21">0.8995761922295865</data>
+  <data key="d22">14.650555</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">1.2155523</data>
+  <data key="d27">240.88335</data>
+</node>
+<node id="Spain">
+  <data key="d0">Spain</data>
+  <data key="d1">ES</data>
+  <data key="d2">40.463667</data>
+  <data key="d3">-3.74922</data>
+  <data key="d4">183</data>
+  <data key="d5">34</data>
+  <data key="d6">217</data>
+  <data key="d7">280434.0</data>
+  <data key="d8">60553.0</data>
+  <data key="d9">340987.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">196.61385835279023</data>
+  <data key="d14">0.20356375</data>
+  <data key="d15">0.08535305</data>
+  <data key="d16">0</data>
+  <data key="d17">0.02374963866403527</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.13589072227478027</data>
+  <data key="d21">0.9849712723769191</data>
+  <data key="d22">21.24754</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-164.83948</data>
+  <data key="d27">185.48541</data>
+</node>
+<node id="Netherlands">
+  <data key="d0">Netherlands</data>
+  <data key="d1">NL</data>
+  <data key="d2">52.132633</data>
+  <data key="d3">5.291266</data>
+  <data key="d4">168</data>
+  <data key="d5">34</data>
+  <data key="d6">202</data>
+  <data key="d7">128980.0</data>
+  <data key="d8">53721.0</data>
+  <data key="d9">182701.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">87.378885524621</data>
+  <data key="d14">0.19672129</data>
+  <data key="d15">0.08634615</data>
+  <data key="d16">0</data>
+  <data key="d17">0.022426055515358895</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.15631234645843506</data>
+  <data key="d21">0.979961696502559</data>
+  <data key="d22">20.055315</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-85.61627</data>
+  <data key="d27">334.31424</data>
+</node>
+<node id="Finland">
+  <data key="d0">Finland</data>
+  <data key="d1">FI</data>
+  <data key="d2">61.92411</data>
+  <data key="d3">25.748151</data>
+  <data key="d4">144</data>
+  <data key="d5">32</data>
+  <data key="d6">176</data>
+  <data key="d7">31404.0</data>
+  <data key="d8">13890.0</data>
+  <data key="d9">45294.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8297872340425532</data>
+  <data key="d12">0.8974358974358975</data>
+  <data key="d13">40.29839832633496</data>
+  <data key="d14">0.17777175</data>
+  <data key="d15">0.082683265</data>
+  <data key="d16">0</data>
+  <data key="d17">0.0204936721627</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.19176319241523743</data>
+  <data key="d21">0.9417774876943932</data>
+  <data key="d22">17.988789</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">93.65068</data>
+  <data key="d27">493.09634</data>
+</node>
+<node id="Canada">
+  <data key="d0">Canada</data>
+  <data key="d1">CA</data>
+  <data key="d2">56.130366</data>
+  <data key="d3">-106.346771</data>
+  <data key="d4">184</data>
+  <data key="d5">35</data>
+  <data key="d6">219</data>
+  <data key="d7">257537.0</data>
+  <data key="d8">18296.0</data>
+  <data key="d9">275833.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8863636363636364</data>
+  <data key="d12">0.9358974358974359</data>
+  <data key="d13">210.281784213957</data>
+  <data key="d14">0.20467529</data>
+  <data key="d15">0.086674415</data>
+  <data key="d16">2</data>
+  <data key="d17">0.023910287405411915</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.1352711170911789</data>
+  <data key="d21">0.9853052441018765</data>
+  <data key="d22">21.406504</data>
+  <data key="d23">198</data>
+  <data key="d24">134</data>
+  <data key="d25">233</data>
+  <data key="d26">-1063.9182</data>
+  <data key="d27">394.16324</data>
+</node>
+<node id="Austria">
+  <data key="d0">Austria</data>
+  <data key="d1">AT</data>
+  <data key="d2">47.516231</data>
+  <data key="d3">14.550072</data>
+  <data key="d4">191</data>
+  <data key="d5">34</data>
+  <data key="d6">225</data>
+  <data key="d7">9427.0</data>
+  <data key="d8">15248.0</data>
+  <data key="d9">24675.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8666666666666667</data>
+  <data key="d12">0.9230769230769231</data>
+  <data key="d13">181.75378793129585</data>
+  <data key="d14">0.20698506</data>
+  <data key="d15">0.08618362</data>
+  <data key="d16">2</data>
+  <data key="d17">0.0245571236730723</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.12675604224205017</data>
+  <data key="d21">0.9876430461765779</data>
+  <data key="d22">21.883396</data>
+  <data key="d23">198</data>
+  <data key="d24">134</data>
+  <data key="d25">233</data>
+  <data key="d26">-4.479871</data>
+  <data key="d27">271.54263</data>
+</node>
+<node id="Rep of Moldova">
+  <data key="d0">Rep of Moldova</data>
+  <data key="d1">MD</data>
+  <data key="d2">47.411631</data>
+  <data key="d3">28.369885</data>
+  <data key="d4">134</data>
+  <data key="d5">0</data>
+  <data key="d6">134</data>
+  <data key="d7">134.0</data>
+  <data key="d8">0.0</data>
+  <data key="d9">134.0</data>
+  <data key="d10">0.0</data>
+  <data key="d11">0.0</data>
+  <data key="d12">0.0</data>
+  <data key="d13">0.0</data>
+  <data key="d14">0.16620263</data>
+  <data key="d15">0.0</data>
+  <data key="d16">2</data>
+  <data key="d17">0.021012037701742595</data>
+  <data key="d18">0</data>
+  <data key="d19">0</data>
+  <data key="d20">0.19015823304653168</data>
+  <data key="d21">0.9404477624644244</data>
+  <data key="d22">14.650555</data>
+  <data key="d23">198</data>
+  <data key="d24">134</data>
+  <data key="d25">233</data>
+  <data key="d26">116.62535</data>
+  <data key="d27">270.18677</data>
+</node>
+<node id="Lithuania">
+  <data key="d0">Lithuania</data>
+  <data key="d1">LT</data>
+  <data key="d2">55.169438</data>
+  <data key="d3">23.881275</data>
+  <data key="d4">90</data>
+  <data key="d5">38</data>
+  <data key="d6">128</data>
+  <data key="d7">22002.0</data>
+  <data key="d8">32792.0</data>
+  <data key="d9">54794.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.9512195121951219</data>
+  <data key="d12">0.9743589743589743</data>
+  <data key="d13">65.57215184574065</data>
+  <data key="d14">0.11861735</data>
+  <data key="d15">0.089811586</data>
+  <data key="d16">0</data>
+  <data key="d17">0.017231362200866265</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.3194802403450012</data>
+  <data key="d21">0.8628393024842771</data>
+  <data key="d22">14.173665</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">77.29094</data>
+  <data key="d27">379.23843</data>
+</node>
+<node id="New Zealand">
+  <data key="d0">New Zealand</data>
+  <data key="d1">NZ</data>
+  <data key="d2">-40.900557</data>
+  <data key="d3">174.885971</data>
+  <data key="d4">228</data>
+  <data key="d5">31</data>
+  <data key="d6">259</data>
+  <data key="d7">228.0</data>
+  <data key="d8">2343.0</data>
+  <data key="d9">2571.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8125</data>
+  <data key="d12">0.8846153846153846</data>
+  <data key="d13">830.27752980171</data>
+  <data key="d14">0.21191758</data>
+  <data key="d15">0.082084246</data>
+  <data key="d16">2</data>
+  <data key="d17">0.03656031115046516</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.09098437428474426</data>
+  <data key="d21">1.0</data>
+  <data key="d22">24.585775</data>
+  <data key="d23">198</data>
+  <data key="d24">134</data>
+  <data key="d25">233</data>
+  <data key="d26">1400.5691</data>
+  <data key="d27">-596.3095</data>
+</node>
+<node id="Belgium">
+  <data key="d0">Belgium</data>
+  <data key="d1">BE</data>
+  <data key="d2">50.503887</data>
+  <data key="d3">4.469936</data>
+  <data key="d4">101</data>
+  <data key="d5">32</data>
+  <data key="d6">133</data>
+  <data key="d7">114408.0</data>
+  <data key="d8">27006.0</data>
+  <data key="d9">141414.0</data>
+  <data key="d10">2.0</data>
+  <data key="d11">0.8297872340425532</data>
+  <data key="d12">0.8974358974358975</data>
+  <data key="d13">14.270294255228276</data>
+  <data key="d14">0.13092011</data>
+  <data key="d15">0.08524513</data>
+  <data key="d16">0</data>
+  <data key="d17">0.01981537095797789</data>
+  <data key="d18">0</data>
+  <data key="d19">4</data>
+  <data key="d20">0.2919155955314636</data>
+  <data key="d21">0.9575855909304155</data>
+  <data key="d22">14.571074</data>
+  <data key="d23">95</data>
+  <data key="d24">198</data>
+  <data key="d25">19</data>
+  <data key="d26">-92.81372</data>
+  <data key="d27">311.47415</data>
+</node>
+<edge source="Philippines" target="New Zealand">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">8095</data>
+</edge>
+<edge source="Philippines" target="Australia">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">9608</data>
+</edge>
+<edge source="Philippines" target="Germany">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">6554</data>
+</edge>
+<edge source="Philippines" target="Austria">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">8748</data>
+</edge>
+<edge source="Philippines" target="Canada">
+  <data key="d28">29544.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">6749</data>
+</edge>
+<edge source="Philippines" target="USA">
+  <data key="d28">54446.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">5851</data>
+</edge>
+<edge source="Philippines" target="Spain">
+  <data key="d28">2095.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">6943</data>
+</edge>
+<edge source="Philippines" target="Italy">
+  <data key="d28">7565.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">10405</data>
+</edge>
+<edge source="Philippines" target="Switzerland">
+  <data key="d28">534.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">10597</data>
+</edge>
+<edge source="Philippines" target="Sweden">
+  <data key="d28">546.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">5642</data>
+</edge>
+<edge source="Philippines" target="Netherlands">
+  <data key="d28">670.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">10080</data>
+</edge>
+<edge source="Philippines" target="Norway">
+  <data key="d28">2606.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">10787</data>
+</edge>
+<edge source="Philippines" target="Denmark">
+  <data key="d28">1653.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">7132</data>
+</edge>
+<edge source="Philippines" target="Ireland">
+  <data key="d28">678.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">8315</data>
+</edge>
+<edge source="Philippines" target="Greece">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">7713</data>
+</edge>
+<edge source="Philippines" target="Romania">
+  <data key="d28">165.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">9400</data>
+</edge>
+<edge source="Philippines" target="Finland">
+  <data key="d28">345.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">10968</data>
+</edge>
+<edge source="Philippines" target="Poland">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">9772</data>
+</edge>
+<edge source="Philippines" target="Czech Republic">
+  <data key="d28">25.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">7879</data>
+</edge>
+<edge source="Philippines" target="Luxembourg">
+  <data key="d28">24.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">9235</data>
+</edge>
+<edge source="Philippines" target="Hungary">
+  <data key="d28">29.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">6376</data>
+</edge>
+<edge source="Philippines" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">8938</data>
+</edge>
+<edge source="Philippines" target="Croatia">
+  <data key="d28">17.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">9071</data>
+</edge>
+<edge source="Philippines" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">10227</data>
+</edge>
+<edge source="Philippines" target="Belgium">
+  <data key="d28">470.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">6087</data>
+</edge>
+<edge source="Philippines" target="Iceland">
+  <data key="d28">74.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">9913</data>
+</edge>
+<edge source="Philippines" target="Slovenia">
+  <data key="d28">17.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">7407</data>
+</edge>
+<edge source="Philippines" target="Lithuania">
+  <data key="d28">6.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">6235</data>
+</edge>
+<edge source="Philippines" target="Cyprus">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">5980</data>
+</edge>
+<edge source="Philippines" target="Slovakia">
+  <data key="d28">1.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">8480</data>
+</edge>
+<edge source="Philippines" target="Estonia">
+  <data key="d28">8.0</data>
+  <data key="d29">PH</data>
+  <data key="d30">7219</data>
+</edge>
+<edge source="Romania" target="New Zealand">
+  <data key="d28">18.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">8103</data>
+</edge>
+<edge source="Romania" target="Australia">
+  <data key="d28">24.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">9291</data>
+</edge>
+<edge source="Romania" target="Germany">
+  <data key="d28">14.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">6560</data>
+</edge>
+<edge source="Romania" target="Austria">
+  <data key="d28">3.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">8754</data>
+</edge>
+<edge source="Romania" target="Canada">
+  <data key="d28">1605.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">6755</data>
+</edge>
+<edge source="Romania" target="USA">
+  <data key="d28">3773.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">5859</data>
+</edge>
+<edge source="Romania" target="Spain">
+  <data key="d28">22847.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">6949</data>
+</edge>
+<edge source="Romania" target="Italy">
+  <data key="d28">58803.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">9359</data>
+</edge>
+<edge source="Romania" target="Switzerland">
+  <data key="d28">1997.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">9426</data>
+</edge>
+<edge source="Romania" target="Sweden">
+  <data key="d28">1869.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">5648</data>
+</edge>
+<edge source="Romania" target="Netherlands">
+  <data key="d28">1686.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">9389</data>
+</edge>
+<edge source="Romania" target="Norway">
+  <data key="d28">2466.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">9394</data>
+</edge>
+<edge source="Romania" target="Denmark">
+  <data key="d28">3588.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">7138</data>
+</edge>
+<edge source="Romania" target="Ireland">
+  <data key="d28">1249.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">8321</data>
+</edge>
+<edge source="Romania" target="Greece">
+  <data key="d28">8.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">7718</data>
+</edge>
+<edge source="Romania" target="Cyprus">
+  <data key="d28">1.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">5984</data>
+</edge>
+<edge source="Romania" target="Belgium">
+  <data key="d28">8552.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">6091</data>
+</edge>
+<edge source="Romania" target="Lithuania">
+  <data key="d28">74.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">6240</data>
+</edge>
+<edge source="Romania" target="Hungary">
+  <data key="d28">4060.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">6381</data>
+</edge>
+<edge source="Romania" target="Estonia">
+  <data key="d28">2.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">7224</data>
+</edge>
+<edge source="Romania" target="Slovenia">
+  <data key="d28">194.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">7412</data>
+</edge>
+<edge source="Romania" target="Czech Republic">
+  <data key="d28">1034.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">7885</data>
+</edge>
+<edge source="Romania" target="Slovakia">
+  <data key="d28">279.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">8485</data>
+</edge>
+<edge source="Romania" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">8944</data>
+</edge>
+<edge source="Romania" target="Croatia">
+  <data key="d28">76.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">9076</data>
+</edge>
+<edge source="Romania" target="Luxembourg">
+  <data key="d28">402.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">9240</data>
+</edge>
+<edge source="Romania" target="Poland">
+  <data key="d28">69.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">9401</data>
+</edge>
+<edge source="Romania" target="Iceland">
+  <data key="d28">58.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">9918</data>
+</edge>
+<edge source="Romania" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">10232</data>
+</edge>
+<edge source="Romania" target="Finland">
+  <data key="d28">257.0</data>
+  <data key="d29">RO</data>
+  <data key="d30">10973</data>
+</edge>
+<edge source="Norway" target="New Zealand">
+  <data key="d28">36.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">8087</data>
+</edge>
+<edge source="Norway" target="Australia">
+  <data key="d28">171.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">9600</data>
+</edge>
+<edge source="Norway" target="Germany">
+  <data key="d28">1358.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">6546</data>
+</edge>
+<edge source="Norway" target="Austria">
+  <data key="d28">132.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">8740</data>
+</edge>
+<edge source="Norway" target="Canada">
+  <data key="d28">236.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">6741</data>
+</edge>
+<edge source="Norway" target="USA">
+  <data key="d28">335.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">5843</data>
+</edge>
+<edge source="Norway" target="Spain">
+  <data key="d28">2693.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">6935</data>
+</edge>
+<edge source="Norway" target="Italy">
+  <data key="d28">796.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">10397</data>
+</edge>
+<edge source="Norway" target="Switzerland">
+  <data key="d28">359.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">10590</data>
+</edge>
+<edge source="Norway" target="Sweden">
+  <data key="d28">6018.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">5635</data>
+</edge>
+<edge source="Norway" target="Netherlands">
+  <data key="d28">787.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">10073</data>
+</edge>
+<edge source="Norway" target="Cyprus">
+  <data key="d28">18.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">5977</data>
+</edge>
+<edge source="Norway" target="Belgium">
+  <data key="d28">323.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">6084</data>
+</edge>
+<edge source="Norway" target="Lithuania">
+  <data key="d28">5432.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">6232</data>
+</edge>
+<edge source="Norway" target="Hungary">
+  <data key="d28">702.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">6371</data>
+</edge>
+<edge source="Norway" target="Denmark">
+  <data key="d28">3133.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">7125</data>
+</edge>
+<edge source="Norway" target="Slovenia">
+  <data key="d28">56.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">7400</data>
+</edge>
+<edge source="Norway" target="Greece">
+  <data key="d28">557.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">7707</data>
+</edge>
+<edge source="Norway" target="Czech Republic">
+  <data key="d28">290.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">7872</data>
+</edge>
+<edge source="Norway" target="Ireland">
+  <data key="d28">349.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">8309</data>
+</edge>
+<edge source="Norway" target="Slovakia">
+  <data key="d28">507.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">8473</data>
+</edge>
+<edge source="Norway" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">8931</data>
+</edge>
+<edge source="Norway" target="Croatia">
+  <data key="d28">120.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">9066</data>
+</edge>
+<edge source="Norway" target="Luxembourg">
+  <data key="d28">23.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">9229</data>
+</edge>
+<edge source="Norway" target="Poland">
+  <data key="d28">10126.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">9767</data>
+</edge>
+<edge source="Norway" target="Iceland">
+  <data key="d28">935.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">9907</data>
+</edge>
+<edge source="Norway" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">NO</data>
+  <data key="d30">10221</data>
+</edge>
+<edge source="Norway" target="Estonia">
+  <data key="d28">624.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">10712</data>
+</edge>
+<edge source="Norway" target="Finland">
+  <data key="d28">463.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">10715</data>
+</edge>
+<edge source="Slovenia" target="New Zealand">
+  <data key="d28">4.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">7397</data>
+</edge>
+<edge source="Slovenia" target="Australia">
+  <data key="d28">13.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">7302</data>
+</edge>
+<edge source="Slovenia" target="Germany">
+  <data key="d28">124.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">6576</data>
+</edge>
+<edge source="Slovenia" target="Austria">
+  <data key="d28">54.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">7303</data>
+</edge>
+<edge source="Slovenia" target="Canada">
+  <data key="d28">24.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">6771</data>
+</edge>
+<edge source="Slovenia" target="USA">
+  <data key="d28">62.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">5877</data>
+</edge>
+<edge source="Slovenia" target="Spain">
+  <data key="d28">212.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">6965</data>
+</edge>
+<edge source="Slovenia" target="Italy">
+  <data key="d28">551.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">7369</data>
+</edge>
+<edge source="Slovenia" target="Switzerland">
+  <data key="d28">365.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">7427</data>
+</edge>
+<edge source="Slovenia" target="Sweden">
+  <data key="d28">136.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">5663</data>
+</edge>
+<edge source="Slovenia" target="Netherlands">
+  <data key="d28">186.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">7396</data>
+</edge>
+<edge source="Slovenia" target="Denmark">
+  <data key="d28">62.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">7152</data>
+</edge>
+<edge source="Slovenia" target="Ireland">
+  <data key="d28">35.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">7367</data>
+</edge>
+<edge source="Slovenia" target="Greece">
+  <data key="d28">8.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">7354</data>
+</edge>
+<edge source="Slovenia" target="Finland">
+  <data key="d28">23.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">7347</data>
+</edge>
+<edge source="Slovenia" target="Poland">
+  <data key="d28">59.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">7408</data>
+</edge>
+<edge source="Slovenia" target="Czech Republic">
+  <data key="d28">55.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">7335</data>
+</edge>
+<edge source="Slovenia" target="Luxembourg">
+  <data key="d28">66.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">9253</data>
+</edge>
+<edge source="Slovenia" target="Hungary">
+  <data key="d28">119.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">6391</data>
+</edge>
+<edge source="Slovenia" target="Croatia">
+  <data key="d28">1582.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">7332</data>
+</edge>
+<edge source="Slovenia" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">10241</data>
+</edge>
+<edge source="Slovenia" target="Belgium">
+  <data key="d28">138.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">6097</data>
+</edge>
+<edge source="Slovenia" target="Iceland">
+  <data key="d28">8.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">7362</data>
+</edge>
+<edge source="Slovenia" target="Cyprus">
+  <data key="d28">2.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">5991</data>
+</edge>
+<edge source="Slovenia" target="Lithuania">
+  <data key="d28">6.0</data>
+  <data key="d29">SI</data>
+  <data key="d30">6248</data>
+</edge>
+<edge source="Slovenia" target="Estonia">
+  <data key="d28">5.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">7344</data>
+</edge>
+<edge source="Slovenia" target="Slovakia">
+  <data key="d28">147.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">7418</data>
+</edge>
+<edge source="Estonia" target="New Zealand">
+  <data key="d28">1.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">8002</data>
+</edge>
+<edge source="Estonia" target="Australia">
+  <data key="d28">7.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">7187</data>
+</edge>
+<edge source="Estonia" target="Germany">
+  <data key="d28">10.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">6478</data>
+</edge>
+<edge source="Estonia" target="Austria">
+  <data key="d28">2.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">7188</data>
+</edge>
+<edge source="Estonia" target="Canada">
+  <data key="d28">51.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">6672</data>
+</edge>
+<edge source="Estonia" target="USA">
+  <data key="d28">211.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">5763</data>
+</edge>
+<edge source="Estonia" target="Spain">
+  <data key="d28">323.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">6865</data>
+</edge>
+<edge source="Estonia" target="Italy">
+  <data key="d28">78.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">7211</data>
+</edge>
+<edge source="Estonia" target="Switzerland">
+  <data key="d28">86.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">10521</data>
+</edge>
+<edge source="Estonia" target="Sweden">
+  <data key="d28">551.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">5568</data>
+</edge>
+<edge source="Estonia" target="Netherlands">
+  <data key="d28">192.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">7217</data>
+</edge>
+<edge source="Estonia" target="Denmark">
+  <data key="d28">211.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">7059</data>
+</edge>
+<edge source="Estonia" target="Ireland">
+  <data key="d28">126.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">7209</data>
+</edge>
+<edge source="Estonia" target="Greece">
+  <data key="d28">3.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">7206</data>
+</edge>
+<edge source="Estonia" target="Finland">
+  <data key="d28">5890.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">7201</data>
+</edge>
+<edge source="Estonia" target="Poland">
+  <data key="d28">3.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">7220</data>
+</edge>
+<edge source="Estonia" target="Czech Republic">
+  <data key="d28">20.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">7197</data>
+</edge>
+<edge source="Estonia" target="Luxembourg">
+  <data key="d28">53.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">9168</data>
+</edge>
+<edge source="Estonia" target="Hungary">
+  <data key="d28">15.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">6316</data>
+</edge>
+<edge source="Estonia" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">8876</data>
+</edge>
+<edge source="Estonia" target="Croatia">
+  <data key="d28">9.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">9020</data>
+</edge>
+<edge source="Estonia" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">10176</data>
+</edge>
+<edge source="Estonia" target="Belgium">
+  <data key="d28">148.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">6046</data>
+</edge>
+<edge source="Estonia" target="Iceland">
+  <data key="d28">18.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">9854</data>
+</edge>
+<edge source="Estonia" target="Lithuania">
+  <data key="d28">35.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">6184</data>
+</edge>
+<edge source="Estonia" target="Cyprus">
+  <data key="d28">1.0</data>
+  <data key="d29">EE</data>
+  <data key="d30">5938</data>
+</edge>
+<edge source="Estonia" target="Slovakia">
+  <data key="d28">5.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">7227</data>
+</edge>
+<edge source="Greece" target="New Zealand">
+  <data key="d28">2.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">7704</data>
+</edge>
+<edge source="Greece" target="Australia">
+  <data key="d28">2.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">7615</data>
+</edge>
+<edge source="Greece" target="Germany">
+  <data key="d28">2.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">6488</data>
+</edge>
+<edge source="Greece" target="Austria">
+  <data key="d28">2.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">7616</data>
+</edge>
+<edge source="Greece" target="Canada">
+  <data key="d28">299.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">6682</data>
+</edge>
+<edge source="Greece" target="USA">
+  <data key="d28">1361.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">5777</data>
+</edge>
+<edge source="Greece" target="Spain">
+  <data key="d28">487.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">6875</data>
+</edge>
+<edge source="Greece" target="Italy">
+  <data key="d28">583.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">7676</data>
+</edge>
+<edge source="Greece" target="Switzerland">
+  <data key="d28">1537.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">7737</data>
+</edge>
+<edge source="Greece" target="Sweden">
+  <data key="d28">1379.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">5578</data>
+</edge>
+<edge source="Greece" target="Netherlands">
+  <data key="d28">2239.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">7703</data>
+</edge>
+<edge source="Greece" target="Denmark">
+  <data key="d28">438.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">7069</data>
+</edge>
+<edge source="Greece" target="Ireland">
+  <data key="d28">89.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">7674</data>
+</edge>
+<edge source="Greece" target="Cyprus">
+  <data key="d28">2.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">5946</data>
+</edge>
+<edge source="Greece" target="Belgium">
+  <data key="d28">1229.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">6053</data>
+</edge>
+<edge source="Greece" target="Lithuania">
+  <data key="d28">9.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">6192</data>
+</edge>
+<edge source="Greece" target="Hungary">
+  <data key="d28">72.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">6326</data>
+</edge>
+<edge source="Greece" target="Croatia">
+  <data key="d28">9.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">7641</data>
+</edge>
+<edge source="Greece" target="Czech Republic">
+  <data key="d28">127.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">7644</data>
+</edge>
+<edge source="Greece" target="Finland">
+  <data key="d28">126.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">7655</data>
+</edge>
+<edge source="Greece" target="Iceland">
+  <data key="d28">12.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">7669</data>
+</edge>
+<edge source="Greece" target="Luxembourg">
+  <data key="d28">265.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">7688</data>
+</edge>
+<edge source="Greece" target="Poland">
+  <data key="d28">2.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">7714</data>
+</edge>
+<edge source="Greece" target="Slovakia">
+  <data key="d28">17.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">7728</data>
+</edge>
+<edge source="Greece" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">8885</data>
+</edge>
+<edge source="Greece" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">GR</data>
+  <data key="d30">10183</data>
+</edge>
+<edge source="Czech Republic" target="New Zealand">
+  <data key="d28">19.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">7868</data>
+</edge>
+<edge source="Czech Republic" target="Australia">
+  <data key="d28">49.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">7765</data>
+</edge>
+<edge source="Czech Republic" target="Germany">
+  <data key="d28">1879.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">6466</data>
+</edge>
+<edge source="Czech Republic" target="Austria">
+  <data key="d28">215.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">7766</data>
+</edge>
+<edge source="Czech Republic" target="Canada">
+  <data key="d28">293.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">6660</data>
+</edge>
+<edge source="Czech Republic" target="USA">
+  <data key="d28">676.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">5751</data>
+</edge>
+<edge source="Czech Republic" target="Spain">
+  <data key="d28">680.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">6853</data>
+</edge>
+<edge source="Czech Republic" target="Italy">
+  <data key="d28">625.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">7834</data>
+</edge>
+<edge source="Czech Republic" target="Switzerland">
+  <data key="d28">445.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">7910</data>
+</edge>
+<edge source="Czech Republic" target="Sweden">
+  <data key="d28">261.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">5556</data>
+</edge>
+<edge source="Czech Republic" target="Netherlands">
+  <data key="d28">599.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">7867</data>
+</edge>
+<edge source="Czech Republic" target="Denmark">
+  <data key="d28">195.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">7047</data>
+</edge>
+<edge source="Czech Republic" target="Ireland">
+  <data key="d28">386.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">7832</data>
+</edge>
+<edge source="Czech Republic" target="Finland">
+  <data key="d28">75.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">7811</data>
+</edge>
+<edge source="Czech Republic" target="Poland">
+  <data key="d28">607.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">7880</data>
+</edge>
+<edge source="Czech Republic" target="Cyprus">
+  <data key="d28">6.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">5935</data>
+</edge>
+<edge source="Czech Republic" target="Belgium">
+  <data key="d28">452.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">6040</data>
+</edge>
+<edge source="Czech Republic" target="Lithuania">
+  <data key="d28">64.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">6175</data>
+</edge>
+<edge source="Czech Republic" target="Hungary">
+  <data key="d28">484.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">6307</data>
+</edge>
+<edge source="Czech Republic" target="Croatia">
+  <data key="d28">198.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">7795</data>
+</edge>
+<edge source="Czech Republic" target="Iceland">
+  <data key="d28">55.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">7827</data>
+</edge>
+<edge source="Czech Republic" target="Luxembourg">
+  <data key="d28">65.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">7850</data>
+</edge>
+<edge source="Czech Republic" target="Slovakia">
+  <data key="d28">7263.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">7899</data>
+</edge>
+<edge source="Czech Republic" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">8866</data>
+</edge>
+<edge source="Czech Republic" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">CZ</data>
+  <data key="d30">10170</data>
+</edge>
+<edge source="Luxembourg" target="New Zealand">
+  <data key="d28">8.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">8055</data>
+</edge>
+<edge source="Luxembourg" target="Australia">
+  <data key="d28">24.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">9122</data>
+</edge>
+<edge source="Luxembourg" target="Germany">
+  <data key="d28">1038.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">6522</data>
+</edge>
+<edge source="Luxembourg" target="Austria">
+  <data key="d28">61.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">8716</data>
+</edge>
+<edge source="Luxembourg" target="Canada">
+  <data key="d28">99.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">6715</data>
+</edge>
+<edge source="Luxembourg" target="USA">
+  <data key="d28">40.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">5812</data>
+</edge>
+<edge source="Luxembourg" target="Spain">
+  <data key="d28">606.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">6909</data>
+</edge>
+<edge source="Luxembourg" target="Italy">
+  <data key="d28">1269.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">9191</data>
+</edge>
+<edge source="Luxembourg" target="Switzerland">
+  <data key="d28">239.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">9262</data>
+</edge>
+<edge source="Luxembourg" target="Sweden">
+  <data key="d28">144.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">5611</data>
+</edge>
+<edge source="Luxembourg" target="Netherlands">
+  <data key="d28">299.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">9224</data>
+</edge>
+<edge source="Luxembourg" target="Denmark">
+  <data key="d28">145.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">7102</data>
+</edge>
+<edge source="Luxembourg" target="Ireland">
+  <data key="d28">98.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">8287</data>
+</edge>
+<edge source="Luxembourg" target="Finland">
+  <data key="d28">75.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">9170</data>
+</edge>
+<edge source="Luxembourg" target="Poland">
+  <data key="d28">363.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">9236</data>
+</edge>
+<edge source="Luxembourg" target="Cyprus">
+  <data key="d28">12.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">5965</data>
+</edge>
+<edge source="Luxembourg" target="Belgium">
+  <data key="d28">1683.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">6073</data>
+</edge>
+<edge source="Luxembourg" target="Hungary">
+  <data key="d28">231.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">6353</data>
+</edge>
+<edge source="Luxembourg" target="Croatia">
+  <data key="d28">83.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">9153</data>
+</edge>
+<edge source="Luxembourg" target="Iceland">
+  <data key="d28">26.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">9184</data>
+</edge>
+<edge source="Luxembourg" target="Lithuania">
+  <data key="d28">69.0</data>
+  <data key="d29">LT</data>
+  <data key="d30">9204</data>
+</edge>
+<edge source="Luxembourg" target="Slovakia">
+  <data key="d28">62.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">9252</data>
+</edge>
+<edge source="Luxembourg" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">LU</data>
+  <data key="d30">10206</data>
+</edge>
+<edge source="Poland" target="New Zealand">
+  <data key="d28">2.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">8096</data>
+</edge>
+<edge source="Poland" target="Australia">
+  <data key="d28">2.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">9609</data>
+</edge>
+<edge source="Poland" target="Germany">
+  <data key="d28">2.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">6555</data>
+</edge>
+<edge source="Poland" target="Austria">
+  <data key="d28">2.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">8749</data>
+</edge>
+<edge source="Poland" target="Canada">
+  <data key="d28">853.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">6750</data>
+</edge>
+<edge source="Poland" target="USA">
+  <data key="d28">6430.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">5852</data>
+</edge>
+<edge source="Poland" target="Spain">
+  <data key="d28">2646.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">6944</data>
+</edge>
+<edge source="Poland" target="Italy">
+  <data key="d28">3507.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">9735</data>
+</edge>
+<edge source="Poland" target="Switzerland">
+  <data key="d28">1919.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">9792</data>
+</edge>
+<edge source="Poland" target="Sweden">
+  <data key="d28">4612.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">5643</data>
+</edge>
+<edge source="Poland" target="Netherlands">
+  <data key="d28">15490.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">9763</data>
+</edge>
+<edge source="Poland" target="Denmark">
+  <data key="d28">3624.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">7133</data>
+</edge>
+<edge source="Poland" target="Ireland">
+  <data key="d28">4202.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">8316</data>
+</edge>
+<edge source="Poland" target="Finland">
+  <data key="d28">507.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">9716</data>
+</edge>
+<edge source="Poland" target="Cyprus">
+  <data key="d28">2.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">5981</data>
+</edge>
+<edge source="Poland" target="Belgium">
+  <data key="d28">6429.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">6088</data>
+</edge>
+<edge source="Poland" target="Lithuania">
+  <data key="d28">81.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">6236</data>
+</edge>
+<edge source="Poland" target="Hungary">
+  <data key="d28">232.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">6377</data>
+</edge>
+<edge source="Poland" target="Slovakia">
+  <data key="d28">159.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">8481</data>
+</edge>
+<edge source="Poland" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">8939</data>
+</edge>
+<edge source="Poland" target="Croatia">
+  <data key="d28">57.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">9072</data>
+</edge>
+<edge source="Poland" target="Iceland">
+  <data key="d28">1268.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">9728</data>
+</edge>
+<edge source="Poland" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">PL</data>
+  <data key="d30">10228</data>
+</edge>
+<edge source="Sweden" target="New Zealand">
+  <data key="d28">73.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">5631</data>
+</edge>
+<edge source="Sweden" target="Australia">
+  <data key="d28">290.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">5520</data>
+</edge>
+<edge source="Sweden" target="Germany">
+  <data key="d28">2197.0</data>
+  <data key="d29">DE</data>
+  <data key="d30">5576</data>
+</edge>
+<edge source="Sweden" target="Austria">
+  <data key="d28">172.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">5521</data>
+</edge>
+<edge source="Sweden" target="Canada">
+  <data key="d28">441.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">5543</data>
+</edge>
+<edge source="Sweden" target="USA">
+  <data key="d28">1106.0</data>
+  <data key="d29">SE</data>
+  <data key="d30">5886</data>
+</edge>
+<edge source="Sweden" target="Spain">
+  <data key="d28">2980.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">5667</data>
+</edge>
+<edge source="Sweden" target="Italy">
+  <data key="d28">1203.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">5594</data>
+</edge>
+<edge source="Sweden" target="Switzerland">
+  <data key="d28">1125.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">5673</data>
+</edge>
+<edge source="Sweden" target="Belgium">
+  <data key="d28">461.0</data>
+  <data key="d29">BE</data>
+  <data key="d30">5528</data>
+</edge>
+<edge source="Sweden" target="Croatia">
+  <data key="d28">548.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">5553</data>
+</edge>
+<edge source="Sweden" target="Cyprus">
+  <data key="d28">52.0</data>
+  <data key="d29">CY</data>
+  <data key="d30">5555</data>
+</edge>
+<edge source="Sweden" target="Denmark">
+  <data key="d28">3794.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">5559</data>
+</edge>
+<edge source="Sweden" target="Finland">
+  <data key="d28">2930.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">5571</data>
+</edge>
+<edge source="Sweden" target="Hungary">
+  <data key="d28">1019.0</data>
+  <data key="d29">HU</data>
+  <data key="d30">5586</data>
+</edge>
+<edge source="Sweden" target="Iceland">
+  <data key="d28">603.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">5587</data>
+</edge>
+<edge source="Sweden" target="Ireland">
+  <data key="d28">632.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">5592</data>
+</edge>
+<edge source="Sweden" target="Lithuania">
+  <data key="d28">1173.0</data>
+  <data key="d29">LT</data>
+  <data key="d30">5610</data>
+</edge>
+<edge source="Sweden" target="Netherlands">
+  <data key="d28">1272.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">5630</data>
+</edge>
+<edge source="Sweden" target="Slovakia">
+  <data key="d28">153.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">5662</data>
+</edge>
+<edge source="Sweden" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">SE</data>
+  <data key="d30">8962</data>
+</edge>
+<edge source="Sweden" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">SE</data>
+  <data key="d30">10249</data>
+</edge>
+<edge source="Slovakia" target="New Zealand">
+  <data key="d28">2.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">8120</data>
+</edge>
+<edge source="Slovakia" target="Australia">
+  <data key="d28">5.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">8372</data>
+</edge>
+<edge source="Slovakia" target="Germany">
+  <data key="d28">91.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">6575</data>
+</edge>
+<edge source="Slovakia" target="Austria">
+  <data key="d28">30.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">8373</data>
+</edge>
+<edge source="Slovakia" target="Canada">
+  <data key="d28">107.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">6770</data>
+</edge>
+<edge source="Slovakia" target="USA">
+  <data key="d28">507.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">5876</data>
+</edge>
+<edge source="Slovakia" target="Spain">
+  <data key="d28">469.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">6964</data>
+</edge>
+<edge source="Slovakia" target="Italy">
+  <data key="d28">689.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">8434</data>
+</edge>
+<edge source="Slovakia" target="Switzerland">
+  <data key="d28">745.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">8504</data>
+</edge>
+<edge source="Slovakia" target="Netherlands">
+  <data key="d28">636.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">8468</data>
+</edge>
+<edge source="Slovakia" target="Denmark">
+  <data key="d28">353.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">7151</data>
+</edge>
+<edge source="Slovakia" target="Ireland">
+  <data key="d28">502.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">8331</data>
+</edge>
+<edge source="Slovakia" target="Finland">
+  <data key="d28">49.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">8413</data>
+</edge>
+<edge source="Slovakia" target="Hungary">
+  <data key="d28">1471.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">6390</data>
+</edge>
+<edge source="Slovakia" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">8955</data>
+</edge>
+<edge source="Slovakia" target="Croatia">
+  <data key="d28">177.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">8397</data>
+</edge>
+<edge source="Slovakia" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">10240</data>
+</edge>
+<edge source="Slovakia" target="Belgium">
+  <data key="d28">622.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">6096</data>
+</edge>
+<edge source="Slovakia" target="Iceland">
+  <data key="d28">69.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">8427</data>
+</edge>
+<edge source="Slovakia" target="Lithuania">
+  <data key="d28">15.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">6247</data>
+</edge>
+<edge source="Slovakia" target="Cyprus">
+  <data key="d28">2.0</data>
+  <data key="d29">SK</data>
+  <data key="d30">5990</data>
+</edge>
+<edge source="Iceland" target="New Zealand">
+  <data key="d28">5.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">8030</data>
+</edge>
+<edge source="Iceland" target="Australia">
+  <data key="d28">15.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">9545</data>
+</edge>
+<edge source="Iceland" target="Germany">
+  <data key="d28">193.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">6498</data>
+</edge>
+<edge source="Iceland" target="Austria">
+  <data key="d28">19.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">8693</data>
+</edge>
+<edge source="Iceland" target="Canada">
+  <data key="d28">115.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">6691</data>
+</edge>
+<edge source="Iceland" target="USA">
+  <data key="d28">139.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">5788</data>
+</edge>
+<edge source="Iceland" target="Spain">
+  <data key="d28">254.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">6885</data>
+</edge>
+<edge source="Iceland" target="Italy">
+  <data key="d28">86.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">9877</data>
+</edge>
+<edge source="Iceland" target="Switzerland">
+  <data key="d28">97.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">9935</data>
+</edge>
+<edge source="Iceland" target="Netherlands">
+  <data key="d28">76.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">9902</data>
+</edge>
+<edge source="Iceland" target="Denmark">
+  <data key="d28">678.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">7078</data>
+</edge>
+<edge source="Iceland" target="Ireland">
+  <data key="d28">38.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">8266</data>
+</edge>
+<edge source="Iceland" target="Finland">
+  <data key="d28">35.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">9857</data>
+</edge>
+<edge source="Iceland" target="Hungary">
+  <data key="d28">57.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">6332</data>
+</edge>
+<edge source="Iceland" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">8892</data>
+</edge>
+<edge source="Iceland" target="Croatia">
+  <data key="d28">8.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">9033</data>
+</edge>
+<edge source="Iceland" target="Belgium">
+  <data key="d28">67.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">6057</data>
+</edge>
+<edge source="Iceland" target="Lithuania">
+  <data key="d28">163.0</data>
+  <data key="d29">IS</data>
+  <data key="d30">6198</data>
+</edge>
+<edge source="Ireland" target="New Zealand">
+  <data key="d28">311.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">8035</data>
+</edge>
+<edge source="Ireland" target="Australia">
+  <data key="d28">681.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">8203</data>
+</edge>
+<edge source="Ireland" target="Germany">
+  <data key="d28">1593.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">6503</data>
+</edge>
+<edge source="Ireland" target="Austria">
+  <data key="d28">131.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">8204</data>
+</edge>
+<edge source="Ireland" target="Canada">
+  <data key="d28">1693.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">6696</data>
+</edge>
+<edge source="Ireland" target="USA">
+  <data key="d28">1626.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">5793</data>
+</edge>
+<edge source="Ireland" target="Spain">
+  <data key="d28">2963.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">6890</data>
+</edge>
+<edge source="Ireland" target="Italy">
+  <data key="d28">1311.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">8273</data>
+</edge>
+<edge source="Ireland" target="Switzerland">
+  <data key="d28">706.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">8342</data>
+</edge>
+<edge source="Ireland" target="Netherlands">
+  <data key="d28">954.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">8304</data>
+</edge>
+<edge source="Ireland" target="Denmark">
+  <data key="d28">351.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">7083</data>
+</edge>
+<edge source="Ireland" target="Cyprus">
+  <data key="d28">11.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">5952</data>
+</edge>
+<edge source="Ireland" target="Belgium">
+  <data key="d28">488.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">6062</data>
+</edge>
+<edge source="Ireland" target="Lithuania">
+  <data key="d28">1770.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">6202</data>
+</edge>
+<edge source="Ireland" target="Hungary">
+  <data key="d28">781.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">6337</data>
+</edge>
+<edge source="Ireland" target="Croatia">
+  <data key="d28">44.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">8236</data>
+</edge>
+<edge source="Ireland" target="Finland">
+  <data key="d28">224.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">8252</data>
+</edge>
+<edge source="Ireland" target="United Kingdom">
+  <data key="d28">1.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">8897</data>
+</edge>
+<edge source="Ireland" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">IE</data>
+  <data key="d30">10192</data>
+</edge>
+<edge source="United Kingdom" target="New Zealand">
+  <data key="d28">1.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">8928</data>
+</edge>
+<edge source="United Kingdom" target="Australia">
+  <data key="d28">1.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">8838</data>
+</edge>
+<edge source="United Kingdom" target="Germany">
+  <data key="d28">1.0</data>
+  <data key="d29">DE</data>
+  <data key="d30">8883</data>
+</edge>
+<edge source="United Kingdom" target="Austria">
+  <data key="d28">1.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">8839</data>
+</edge>
+<edge source="United Kingdom" target="Canada">
+  <data key="d28">1.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">8855</data>
+</edge>
+<edge source="United Kingdom" target="Spain">
+  <data key="d28">1.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">8958</data>
+</edge>
+<edge source="United Kingdom" target="Italy">
+  <data key="d28">1.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">8899</data>
+</edge>
+<edge source="United Kingdom" target="Switzerland">
+  <data key="d28">1.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">8963</data>
+</edge>
+<edge source="United Kingdom" target="Netherlands">
+  <data key="d28">1.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">8927</data>
+</edge>
+<edge source="United Kingdom" target="Denmark">
+  <data key="d28">1.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">8869</data>
+</edge>
+<edge source="United Kingdom" target="Finland">
+  <data key="d28">1.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">8879</data>
+</edge>
+<edge source="United Kingdom" target="Hungary">
+  <data key="d28">1.0</data>
+  <data key="d29">HU</data>
+  <data key="d30">8891</data>
+</edge>
+<edge source="United Kingdom" target="Belgium">
+  <data key="d28">1.0</data>
+  <data key="d29">BE</data>
+  <data key="d30">8846</data>
+</edge>
+<edge source="United Kingdom" target="Croatia">
+  <data key="d28">1.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">8863</data>
+</edge>
+<edge source="United Kingdom" target="Cyprus">
+  <data key="d28">1.0</data>
+  <data key="d29">CY</data>
+  <data key="d30">8865</data>
+</edge>
+<edge source="United Kingdom" target="Lithuania">
+  <data key="d28">1.0</data>
+  <data key="d29">LT</data>
+  <data key="d30">8912</data>
+</edge>
+<edge source="Switzerland" target="New Zealand">
+  <data key="d28">134.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">8132</data>
+</edge>
+<edge source="Switzerland" target="Australia">
+  <data key="d28">567.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">9641</data>
+</edge>
+<edge source="Switzerland" target="Germany">
+  <data key="d28">23290.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">6586</data>
+</edge>
+<edge source="Switzerland" target="Austria">
+  <data key="d28">2606.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">8780</data>
+</edge>
+<edge source="Switzerland" target="Canada">
+  <data key="d28">1276.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">6781</data>
+</edge>
+<edge source="Switzerland" target="USA">
+  <data key="d28">697.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">5887</data>
+</edge>
+<edge source="Switzerland" target="Spain">
+  <data key="d28">8376.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">6976</data>
+</edge>
+<edge source="Switzerland" target="Italy">
+  <data key="d28">16335.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">10438</data>
+</edge>
+<edge source="Switzerland" target="Cyprus">
+  <data key="d28">86.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">5998</data>
+</edge>
+<edge source="Switzerland" target="Belgium">
+  <data key="d28">1486.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">6102</data>
+</edge>
+<edge source="Switzerland" target="Lithuania">
+  <data key="d28">192.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">6257</data>
+</edge>
+<edge source="Switzerland" target="Hungary">
+  <data key="d28">1472.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">6399</data>
+</edge>
+<edge source="Switzerland" target="Denmark">
+  <data key="d28">613.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">7162</data>
+</edge>
+<edge source="Switzerland" target="Croatia">
+  <data key="d28">459.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">9094</data>
+</edge>
+<edge source="Switzerland" target="Netherlands">
+  <data key="d28">1896.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">10112</data>
+</edge>
+<edge source="Switzerland" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">CH</data>
+  <data key="d30">10250</data>
+</edge>
+<edge source="Switzerland" target="Finland">
+  <data key="d28">478.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">10524</data>
+</edge>
+<edge source="Hungary" target="New Zealand">
+  <data key="d28">10.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">6369</data>
+</edge>
+<edge source="Hungary" target="Australia">
+  <data key="d28">44.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">6282</data>
+</edge>
+<edge source="Hungary" target="Germany">
+  <data key="d28">1992.0</data>
+  <data key="d29">DE</data>
+  <data key="d30">6324</data>
+</edge>
+<edge source="Hungary" target="Austria">
+  <data key="d28">451.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">6283</data>
+</edge>
+<edge source="Hungary" target="Canada">
+  <data key="d28">594.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">6297</data>
+</edge>
+<edge source="Hungary" target="USA">
+  <data key="d28">1052.0</data>
+  <data key="d29">HU</data>
+  <data key="d30">5787</data>
+</edge>
+<edge source="Hungary" target="Spain">
+  <data key="d28">1195.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">6394</data>
+</edge>
+<edge source="Hungary" target="Italy">
+  <data key="d28">1097.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">6339</data>
+</edge>
+<edge source="Hungary" target="Netherlands">
+  <data key="d28">2391.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">6368</data>
+</edge>
+<edge source="Hungary" target="Denmark">
+  <data key="d28">809.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">6310</data>
+</edge>
+<edge source="Hungary" target="Finland">
+  <data key="d28">312.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">6319</data>
+</edge>
+<edge source="Hungary" target="Cyprus">
+  <data key="d28">25.0</data>
+  <data key="d29">HU</data>
+  <data key="d30">5947</data>
+</edge>
+<edge source="Hungary" target="Belgium">
+  <data key="d28">1027.0</data>
+  <data key="d29">HU</data>
+  <data key="d30">6056</data>
+</edge>
+<edge source="Hungary" target="Lithuania">
+  <data key="d28">36.0</data>
+  <data key="d29">HU</data>
+  <data key="d30">6197</data>
+</edge>
+<edge source="Hungary" target="Croatia">
+  <data key="d28">246.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">6304</data>
+</edge>
+<edge source="Hungary" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">HU</data>
+  <data key="d30">10187</data>
+</edge>
+<edge source="USA" target="New Zealand">
+  <data key="d28">921.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">5837</data>
+</edge>
+<edge source="USA" target="Australia">
+  <data key="d28">2759.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">5709</data>
+</edge>
+<edge source="USA" target="Germany">
+  <data key="d28">6032.0</data>
+  <data key="d29">DE</data>
+  <data key="d30">5774</data>
+</edge>
+<edge source="USA" target="Austria">
+  <data key="d28">415.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">5710</data>
+</edge>
+<edge source="USA" target="Canada">
+  <data key="d28">13181.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">5734</data>
+</edge>
+<edge source="USA" target="Belgium">
+  <data key="d28">675.0</data>
+  <data key="d29">BE</data>
+  <data key="d30">5717</data>
+</edge>
+<edge source="USA" target="Croatia">
+  <data key="d28">353.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">5748</data>
+</edge>
+<edge source="USA" target="Cyprus">
+  <data key="d28">126.0</data>
+  <data key="d29">CY</data>
+  <data key="d30">5750</data>
+</edge>
+<edge source="USA" target="Denmark">
+  <data key="d28">506.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">5754</data>
+</edge>
+<edge source="USA" target="Finland">
+  <data key="d28">331.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">5767</data>
+</edge>
+<edge source="USA" target="Italy">
+  <data key="d28">2960.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">5795</data>
+</edge>
+<edge source="USA" target="Lithuania">
+  <data key="d28">854.0</data>
+  <data key="d29">LT</data>
+  <data key="d30">5811</data>
+</edge>
+<edge source="USA" target="Netherlands">
+  <data key="d28">1142.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">5835</data>
+</edge>
+<edge source="USA" target="Spain">
+  <data key="d28">2480.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">5881</data>
+</edge>
+<edge source="Cyprus" target="New Zealand">
+  <data key="d28">2.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">5975</data>
+</edge>
+<edge source="Cyprus" target="Australia">
+  <data key="d28">2.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">5920</data>
+</edge>
+<edge source="Cyprus" target="Germany">
+  <data key="d28">2.0</data>
+  <data key="d29">DE</data>
+  <data key="d30">5944</data>
+</edge>
+<edge source="Cyprus" target="Austria">
+  <data key="d28">2.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">5921</data>
+</edge>
+<edge source="Cyprus" target="Canada">
+  <data key="d28">17.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">5930</data>
+</edge>
+<edge source="Cyprus" target="Spain">
+  <data key="d28">43.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">5993</data>
+</edge>
+<edge source="Cyprus" target="Italy">
+  <data key="d28">18.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">5954</data>
+</edge>
+<edge source="Cyprus" target="Netherlands">
+  <data key="d28">96.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">5974</data>
+</edge>
+<edge source="Cyprus" target="Denmark">
+  <data key="d28">17.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">5936</data>
+</edge>
+<edge source="Cyprus" target="Finland">
+  <data key="d28">13.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">5940</data>
+</edge>
+<edge source="Cyprus" target="Croatia">
+  <data key="d28">1.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">5932</data>
+</edge>
+<edge source="Cyprus" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">CY</data>
+  <data key="d30">10169</data>
+</edge>
+<edge source="Cyprus" target="Belgium">
+  <data key="d28">63.0</data>
+  <data key="d29">BE</data>
+  <data key="d30">5925</data>
+</edge>
+<edge source="Cyprus" target="Lithuania">
+  <data key="d28">1.0</data>
+  <data key="d29">LT</data>
+  <data key="d30">5964</data>
+</edge>
+<edge source="Denmark" target="New Zealand">
+  <data key="d28">66.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">7121</data>
+</edge>
+<edge source="Denmark" target="Australia">
+  <data key="d28">241.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">7012</data>
+</edge>
+<edge source="Denmark" target="Germany">
+  <data key="d28">1786.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">6469</data>
+</edge>
+<edge source="Denmark" target="Austria">
+  <data key="d28">122.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">7013</data>
+</edge>
+<edge source="Denmark" target="Canada">
+  <data key="d28">328.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">6663</data>
+</edge>
+<edge source="Denmark" target="Spain">
+  <data key="d28">1673.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">6856</data>
+</edge>
+<edge source="Denmark" target="Italy">
+  <data key="d28">1160.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">7085</data>
+</edge>
+<edge source="Denmark" target="Netherlands">
+  <data key="d28">782.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">7120</data>
+</edge>
+<edge source="Denmark" target="Belgium">
+  <data key="d28">310.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">6042</data>
+</edge>
+<edge source="Denmark" target="Lithuania">
+  <data key="d28">1474.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">6177</data>
+</edge>
+<edge source="Denmark" target="Croatia">
+  <data key="d28">133.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">7044</data>
+</edge>
+<edge source="Denmark" target="Finland">
+  <data key="d28">301.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">7062</data>
+</edge>
+<edge source="Denmark" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">DK</data>
+  <data key="d30">10173</data>
+</edge>
+<edge source="Australia" target="New Zealand">
+  <data key="d28">2.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">7947</data>
+</edge>
+<edge source="Australia" target="Belgium">
+  <data key="d28">134.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">6018</data>
+</edge>
+<edge source="Australia" target="Lithuania">
+  <data key="d28">3.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">6150</data>
+</edge>
+<edge source="Australia" target="Germany">
+  <data key="d28">2.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">6430</data>
+</edge>
+<edge source="Australia" target="Canada">
+  <data key="d28">1122.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">6622</data>
+</edge>
+<edge source="Australia" target="Spain">
+  <data key="d28">352.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">6816</data>
+</edge>
+<edge source="Australia" target="Austria">
+  <data key="d28">2.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">8623</data>
+</edge>
+<edge source="Australia" target="Croatia">
+  <data key="d28">20.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">8991</data>
+</edge>
+<edge source="Australia" target="Finland">
+  <data key="d28">62.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">9522</data>
+</edge>
+<edge source="Australia" target="Italy">
+  <data key="d28">236.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">9552</data>
+</edge>
+<edge source="Australia" target="Netherlands">
+  <data key="d28">452.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">9592</data>
+</edge>
+<edge source="Australia" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">AU</data>
+  <data key="d30">10143</data>
+</edge>
+<edge source="Italy" target="New Zealand">
+  <data key="d28">29.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">8038</data>
+</edge>
+<edge source="Italy" target="Germany">
+  <data key="d28">1669.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">6505</data>
+</edge>
+<edge source="Italy" target="Austria">
+  <data key="d28">237.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">8700</data>
+</edge>
+<edge source="Italy" target="Canada">
+  <data key="d28">754.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">6698</data>
+</edge>
+<edge source="Italy" target="Spain">
+  <data key="d28">14020.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">6892</data>
+</edge>
+<edge source="Italy" target="Belgium">
+  <data key="d28">5196.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">6064</data>
+</edge>
+<edge source="Italy" target="Lithuania">
+  <data key="d28">418.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">6204</data>
+</edge>
+<edge source="Italy" target="Croatia">
+  <data key="d28">909.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">9040</data>
+</edge>
+<edge source="Italy" target="Netherlands">
+  <data key="d28">3412.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">10034</data>
+</edge>
+<edge source="Italy" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">IT</data>
+  <data key="d30">10194</data>
+</edge>
+<edge source="Italy" target="Finland">
+  <data key="d28">303.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">10330</data>
+</edge>
+<edge source="Germany" target="New Zealand">
+  <data key="d28">2.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">6542</data>
+</edge>
+<edge source="Germany" target="Belgium">
+  <data key="d28">2408.0</data>
+  <data key="d29">DE</data>
+  <data key="d30">6051</data>
+</edge>
+<edge source="Germany" target="Lithuania">
+  <data key="d28">67.0</data>
+  <data key="d29">DE</data>
+  <data key="d30">6190</data>
+</edge>
+<edge source="Germany" target="Austria">
+  <data key="d28">2.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">6431</data>
+</edge>
+<edge source="Germany" target="Canada">
+  <data key="d28">1218.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">6453</data>
+</edge>
+<edge source="Germany" target="Croatia">
+  <data key="d28">417.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">6463</data>
+</edge>
+<edge source="Germany" target="Finland">
+  <data key="d28">300.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">6481</data>
+</edge>
+<edge source="Germany" target="Netherlands">
+  <data key="d28">6050.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">6541</data>
+</edge>
+<edge source="Germany" target="Spain">
+  <data key="d28">7242.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">6580</data>
+</edge>
+<edge source="Germany" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">DE</data>
+  <data key="d30">10181</data>
+</edge>
+<edge source="Croatia" target="New Zealand">
+  <data key="d28">5.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">7987</data>
+</edge>
+<edge source="Croatia" target="Austria">
+  <data key="d28">106.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">8658</data>
+</edge>
+<edge source="Croatia" target="Canada">
+  <data key="d28">150.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">6657</data>
+</edge>
+<edge source="Croatia" target="Spain">
+  <data key="d28">230.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">6850</data>
+</edge>
+<edge source="Croatia" target="Netherlands">
+  <data key="d28">345.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">9062</data>
+</edge>
+<edge source="Croatia" target="Finland">
+  <data key="d28">40.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">9022</data>
+</edge>
+<edge source="Croatia" target="Belgium">
+  <data key="d28">282.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">6037</data>
+</edge>
+<edge source="Croatia" target="Lithuania">
+  <data key="d28">9.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">6172</data>
+</edge>
+<edge source="Croatia" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">HR</data>
+  <data key="d30">10167</data>
+</edge>
+<edge source="Spain" target="New Zealand">
+  <data key="d28">110.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">6931</data>
+</edge>
+<edge source="Spain" target="Austria">
+  <data key="d28">585.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">6817</data>
+</edge>
+<edge source="Spain" target="Canada">
+  <data key="d28">1009.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">6774</data>
+</edge>
+<edge source="Spain" target="Belgium">
+  <data key="d28">7449.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">6100</data>
+</edge>
+<edge source="Spain" target="Lithuania">
+  <data key="d28">845.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">6251</data>
+</edge>
+<edge source="Spain" target="Finland">
+  <data key="d28">1264.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">6868</data>
+</edge>
+<edge source="Spain" target="Netherlands">
+  <data key="d28">6500.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">6930</data>
+</edge>
+<edge source="Spain" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">ES</data>
+  <data key="d30">10244</data>
+</edge>
+<edge source="Netherlands" target="New Zealand">
+  <data key="d28">142.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">8079</data>
+</edge>
+<edge source="Netherlands" target="Austria">
+  <data key="d28">285.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">8735</data>
+</edge>
+<edge source="Netherlands" target="Canada">
+  <data key="d28">1032.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">6735</data>
+</edge>
+<edge source="Netherlands" target="Belgium">
+  <data key="d28">9784.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">6080</data>
+</edge>
+<edge source="Netherlands" target="Lithuania">
+  <data key="d28">871.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">6229</data>
+</edge>
+<edge source="Netherlands" target="Finland">
+  <data key="d28">404.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">10011</data>
+</edge>
+<edge source="Netherlands" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">NL</data>
+  <data key="d30">10216</data>
+</edge>
+<edge source="Finland" target="New Zealand">
+  <data key="d28">13.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">8007</data>
+</edge>
+<edge source="Finland" target="Austria">
+  <data key="d28">27.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">8676</data>
+</edge>
+<edge source="Finland" target="Canada">
+  <data key="d28">157.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">6675</data>
+</edge>
+<edge source="Finland" target="Belgium">
+  <data key="d28">312.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">6048</data>
+</edge>
+<edge source="Finland" target="Lithuania">
+  <data key="d28">169.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">6186</data>
+</edge>
+<edge source="Finland" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">FI</data>
+  <data key="d30">10178</data>
+</edge>
+<edge source="Canada" target="New Zealand">
+  <data key="d28">416.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">6737</data>
+</edge>
+<edge source="Canada" target="Austria">
+  <data key="d28">91.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">6623</data>
+</edge>
+<edge source="Canada" target="Belgium">
+  <data key="d28">815.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">6030</data>
+</edge>
+<edge source="Canada" target="Lithuania">
+  <data key="d28">149.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">6165</data>
+</edge>
+<edge source="Canada" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">CA</data>
+  <data key="d30">10161</data>
+</edge>
+<edge source="Austria" target="New Zealand">
+  <data key="d28">2.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">7948</data>
+</edge>
+<edge source="Austria" target="Belgium">
+  <data key="d28">233.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">6019</data>
+</edge>
+<edge source="Austria" target="Lithuania">
+  <data key="d28">7.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">6151</data>
+</edge>
+<edge source="Austria" target="Rep of Moldova">
+  <data key="d28">1.0</data>
+  <data key="d29">AT</data>
+  <data key="d30">10144</data>
+</edge>
+<edge source="Rep of Moldova" target="New Zealand">
+  <data key="d28">1.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">10217</data>
+</edge>
+<edge source="Rep of Moldova" target="Belgium">
+  <data key="d28">1.0</data>
+  <data key="d29">BE</data>
+  <data key="d30">10149</data>
+</edge>
+<edge source="Rep of Moldova" target="Lithuania">
+  <data key="d28">1.0</data>
+  <data key="d29">LT</data>
+  <data key="d30">10205</data>
+</edge>
+<edge source="Lithuania" target="New Zealand">
+  <data key="d28">1.0</data>
+  <data key="d29">LT</data>
+  <data key="d30">8054</data>
+</edge>
+<edge source="Lithuania" target="Belgium">
+  <data key="d28">284.0</data>
+  <data key="d29">LT</data>
+  <data key="d30">6072</data>
+</edge>
+<edge source="New Zealand" target="Belgium">
+  <data key="d28">29.0</data>
+  <data key="d29">NZ</data>
+  <data key="d30">6081</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,2361 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="source" attr.type="string" for="node" id="d1"/>
+<key attr.name="value" attr.type="long" for="node" id="d0"/>
+<graph edgedefault="undirected">
+<node id="pardonmyenglish.com">
+<data key="label">pardonmyenglish.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">80.59073</data>
+<data key="y">-117.412834</data>
+</node>
+<node id="commonsenserunswild.typepad.com">
+<data key="label">commonsenserunswild.typepad.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">139.02017</data>
+<data key="y">-62.01065</data>
+</node>
+<node id="politicalwire.com">
+<data key="label">politicalwire.com</data>
+<data key="d1">BlogPulse</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-55.348602</data>
+<data key="y">77.63152</data>
+</node>
+<node id="democrats.org/blog">
+<data key="label">democrats.org/blog</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-76.533134</data>
+<data key="y">86.77264</data>
+</node>
+<node id="patriotism101.blogspot.com">
+<data key="label">patriotism101.blogspot.com</data>
+<data key="d1">BlogCatalog</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">65.493576</data>
+<data key="y">-144.05035</data>
+</node>
+<node id="thomasgalvin.blogspot.com">
+<data key="label">thomasgalvin.blogspot.com</data>
+<data key="d1">BlogPulse,eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">58.876</data>
+<data key="y">-72.64313</data>
+</node>
+<node id="everythingiknowiswrong.com">
+<data key="label">everythingiknowiswrong.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">118.533585</data>
+<data key="y">-78.42146</data>
+</node>
+<node id="mdcbowen.org/cobb">
+<data key="label">mdcbowen.org/cobb</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">177.58688</data>
+<data key="y">-41.10097</data>
+</node>
+<node id="gmscorner.blogspot.com">
+<data key="label">gmscorner.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">70.19506</data>
+<data key="y">12.770064</data>
+</node>
+<node id="higherpieproductions.com">
+<data key="label">higherpieproductions.com</data>
+<data key="d1">Blogarama,LeftyDirectory,BlogCatalog,LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-61.101357</data>
+<data key="y">107.067604</data>
+</node>
+<node id="alamonation.blogspot.com">
+<data key="label">alamonation.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">84.12641</data>
+<data key="y">-146.1285</data>
+</node>
+<node id="bushmisunderestimated.blogspot.com">
+<data key="label">bushmisunderestimated.blogspot.com</data>
+<data key="d1">CampaignLine</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-101.033104</data>
+<data key="y">17.650827</data>
+</node>
+<node id="txfx.net">
+<data key="label">txfx.net</data>
+<data key="d1">BlogCatalog</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">68.2406</data>
+<data key="y">-85.772316</data>
+</node>
+<node id="fairshot.org">
+<data key="label">fairshot.org</data>
+<data key="d1">Blogarama</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-116.1585</data>
+<data key="y">102.60207</data>
+</node>
+<node id="scrutinyhooligans.blogspot.com">
+<data key="label">scrutinyhooligans.blogspot.com</data>
+<data key="d1">Blogarama,LeftyDirectory</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-172.14609</data>
+<data key="y">103.498505</data>
+</node>
+<node id="alvintostig.typepad.com">
+<data key="label">alvintostig.typepad.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-99.57388</data>
+<data key="y">114.05457</data>
+</node>
+<node id="msnbc.msn.com/id/3449870">
+<data key="label">msnbc.msn.com/id/3449870</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-90.30179</data>
+<data key="y">47.74453</data>
+</node>
+<node id="victorhanson.com">
+<data key="label">victorhanson.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">138.16792</data>
+<data key="y">-5.883126</data>
+</node>
+<node id="jeffblanco.blogdrive.com">
+<data key="label">jeffblanco.blogdrive.com</data>
+<data key="d1">Blogarama,BlogCatalog,eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">72.83875</data>
+<data key="y">-190.92662</data>
+</node>
+<node id="americanfuture.typepad.com">
+<data key="label">americanfuture.typepad.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">113.23538</data>
+<data key="y">10.426659</data>
+</node>
+<node id="theagitator.blogspot.com">
+<data key="label">theagitator.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-119.892654</data>
+<data key="y">24.131716</data>
+</node>
+<node id="thedonovan.com">
+<data key="label">thedonovan.com</data>
+<data key="d1">Blogarama,eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">120.40654</data>
+<data key="y">-95.25996</data>
+</node>
+<node id="littlegreenfootballs.com/weblog">
+<data key="label">littlegreenfootballs.com/weblog</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">87.58363</data>
+<data key="y">-26.740738</data>
+</node>
+<node id="poweragerambleson.blogspot.com">
+<data key="label">poweragerambleson.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">145.46117</data>
+<data key="y">-38.990044</data>
+</node>
+<node id="hiddennook.blogspot.com">
+<data key="label">hiddennook.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">155.42775</data>
+<data key="y">-122.868355</data>
+</node>
+<node id="prestoncaldwellblog.blogspot.com">
+<data key="label">prestoncaldwellblog.blogspot.com</data>
+<data key="d1">LeftyDirectory,eTalkingHead</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-65.28289</data>
+<data key="y">120.41308</data>
+</node>
+<node id="nykola.com">
+<data key="label">nykola.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">178.18935</data>
+<data key="y">-64.499466</data>
+</node>
+<node id="bensworld.patriotforum.org">
+<data key="label">bensworld.patriotforum.org</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">124.21481</data>
+<data key="y">-157.88501</data>
+</node>
+<node id="takebackthemedia.com">
+<data key="label">takebackthemedia.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-184.8261</data>
+<data key="y">85.28498</data>
+</node>
+<node id="electionprojection.com">
+<data key="label">electionprojection.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">81.436226</data>
+<data key="y">-73.476555</data>
+</node>
+<node id="robschumacher.blogspot.com">
+<data key="label">robschumacher.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-126.90917</data>
+<data key="y">129.69177</data>
+</node>
+<node id="dailywarnews.blogspot.com">
+<data key="label">dailywarnews.blogspot.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-173.58891</data>
+<data key="y">76.98518</data>
+</node>
+<node id="martinipundit.com">
+<data key="label">martinipundit.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">121.98751</data>
+<data key="y">-48.71453</data>
+</node>
+<node id="ndnblog.org">
+<data key="label">ndnblog.org</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-100.46099</data>
+<data key="y">156.0127</data>
+</node>
+<node id="atrios.blogspot.com">
+<data key="label">atrios.blogspot.com</data>
+<data key="d1">BlogPulse,LeftyDirectory,CampaignLine</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-97.243034</data>
+<data key="y">69.71238</data>
+</node>
+<node id="elemming2.blogspot.com">
+<data key="label">elemming2.blogspot.com</data>
+<data key="d1">Blogarama,LeftyDirectory</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-137.54869</data>
+<data key="y">123.14829</data>
+</node>
+<node id="scoobiedavis.blogspot.com">
+<data key="label">scoobiedavis.blogspot.com</data>
+<data key="d1">LeftyDirectory</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-126.493614</data>
+<data key="y">52.91281</data>
+</node>
+<node id="c-pol.blogspot.com">
+<data key="label">c-pol.blogspot.com</data>
+<data key="d1">Blogarama,CampaignLine</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">136.98065</data>
+<data key="y">-127.76889</data>
+</node>
+<node id="streetlog.typepad.com">
+<data key="label">streetlog.typepad.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">97.02544</data>
+<data key="y">-160.90433</data>
+</node>
+<node id="professorbainbridge.com">
+<data key="label">professorbainbridge.com</data>
+<data key="d1">BlogPulse,eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">102.169136</data>
+<data key="y">-42.59891</data>
+</node>
+<node id="blog01.kintera.com/dnccblog">
+<data key="label">blog01.kintera.com/dnccblog</data>
+<data key="d1">CampaignLine</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-49.703247</data>
+<data key="y">95.76463</data>
+</node>
+<node id="scrappleface.com">
+<data key="label">scrappleface.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">47.938877</data>
+<data key="y">-89.990715</data>
+</node>
+<node id="jadedreality.blogspot.com">
+<data key="label">jadedreality.blogspot.com</data>
+<data key="d1">Blogarama,BlogCatalog</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-85.62719</data>
+<data key="y">135.71863</data>
+</node>
+<node id="needlenose.com">
+<data key="label">needlenose.com</data>
+<data key="d1">Blogarama,LeftyDirectory,BlogCatalog</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-162.64696</data>
+<data key="y">112.917595</data>
+</node>
+<node id="bernardmoon.blogspot.com">
+<data key="label">bernardmoon.blogspot.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">100.63898</data>
+<data key="y">-10.843221</data>
+</node>
+<node id="ospolitics.org">
+<data key="label">ospolitics.org</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-143.81104</data>
+<data key="y">92.48925</data>
+</node>
+<node id="thomasblog.typepad.com/bloggg">
+<data key="label">thomasblog.typepad.com/bloggg</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-177.11981</data>
+<data key="y">64.39697</data>
+</node>
+<node id="headland.blogspot.com">
+<data key="label">headland.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">48.884964</data>
+<data key="y">-44.773983</data>
+</node>
+<node id="twentyfirstcenturyrepublican.blogspot.com">
+<data key="label">twentyfirstcenturyrepublican.blogspot.com</data>
+<data key="d1">BlogCatalog</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">75.3763</data>
+<data key="y">-158.41618</data>
+</node>
+<node id="nomayo.mu.nu">
+<data key="label">nomayo.mu.nu</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">47.09714</data>
+<data key="y">-57.829266</data>
+</node>
+<node id="alphapatriot.com">
+<data key="label">alphapatriot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">94.953514</data>
+<data key="y">-86.08248</data>
+</node>
+<node id="unfetteredmusings.blogspot.com">
+<data key="label">unfetteredmusings.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">42.04138</data>
+<data key="y">-69.098885</data>
+</node>
+<node id="fromtheroots.org">
+<data key="label">fromtheroots.org</data>
+<data key="d1">CampaignLine</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-79.50191</data>
+<data key="y">111.87299</data>
+</node>
+<node id="wholewheatblogger.com">
+<data key="label">wholewheatblogger.com</data>
+<data key="d1">BlogCatalog</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">146.41049</data>
+<data key="y">-51.376343</data>
+</node>
+<node id="wizbangblog.com">
+<data key="label">wizbangblog.com</data>
+<data key="d1">BlogPulse</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">63.220932</data>
+<data key="y">-51.471355</data>
+</node>
+<node id="zebrax.blogs.com">
+<data key="label">zebrax.blogs.com</data>
+<data key="d1">BlogCatalog</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">164.14781</data>
+<data key="y">-112.62645</data>
+</node>
+<node id="allspinzone.blogspot.com">
+<data key="label">allspinzone.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-156.99174</data>
+<data key="y">124.731926</data>
+</node>
+<node id="rightrainbow.com">
+<data key="label">rightrainbow.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">112.38785</data>
+<data key="y">-153.3576</data>
+</node>
+<node id="thepoorman.net">
+<data key="label">thepoorman.net</data>
+<data key="d1">LeftyDirectory</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-93.49391</data>
+<data key="y">30.195631</data>
+</node>
+<node id="sgtstryker.com">
+<data key="label">sgtstryker.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">69.43691</data>
+<data key="y">-35.534473</data>
+</node>
+<node id="nomoremister.blogspot.com">
+<data key="label">nomoremister.blogspot.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-145.22958</data>
+<data key="y">69.62819</data>
+</node>
+<node id="stcfoundation.blogspot.com">
+<data key="label">stcfoundation.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-101.44288</data>
+<data key="y">54.68475</data>
+</node>
+<node id="crankybastard.blogspot.com">
+<data key="label">crankybastard.blogspot.com</data>
+<data key="d1">Blogarama,eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">105.67873</data>
+<data key="y">-53.70067</data>
+</node>
+<node id="elayneriggs.blogspot.com">
+<data key="label">elayneriggs.blogspot.com</data>
+<data key="d1">LeftyDirectory</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-150.6687</data>
+<data key="y">47.890575</data>
+</node>
+<node id="quante.blogspot.com">
+<data key="label">quante.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">51.925068</data>
+<data key="y">-35.579594</data>
+</node>
+<node id="evangelicaloutpost.com">
+<data key="label">evangelicaloutpost.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">138.9881</data>
+<data key="y">-95.7896</data>
+</node>
+<node id="lt-smash.us">
+<data key="label">lt-smash.us</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">127.82964</data>
+<data key="y">-36.78364</data>
+</node>
+<node id="prolifeblogs.com">
+<data key="label">prolifeblogs.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">170.71326</data>
+<data key="y">-120.94842</data>
+</node>
+<node id="bartcop.com">
+<data key="label">bartcop.com</data>
+<data key="d1">CampaignLine</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-148.32578</data>
+<data key="y">103.66613</data>
+</node>
+<node id="politicalmusings.net">
+<data key="label">politicalmusings.net</data>
+<data key="d1">BlogPulse</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">52.669434</data>
+<data key="y">-19.963573</data>
+</node>
+<node id="oliverwillis.com">
+<data key="label">oliverwillis.com</data>
+<data key="d1">LeftyDirectory,eTalkingHead,CampaignLine</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-63.689873</data>
+<data key="y">55.7311</data>
+</node>
+<node id="mydd.com">
+<data key="label">mydd.com</data>
+<data key="d1">LeftyDirectory,LabeledManually,eTalkingHead</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-103.29921</data>
+<data key="y">129.36438</data>
+</node>
+<node id="marcbrazeau.blogspot.com">
+<data key="label">marcbrazeau.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">14.719897</data>
+<data key="y">-15.377261</data>
+</node>
+<node id="demagogue.blogspot.com">
+<data key="label">demagogue.blogspot.com</data>
+<data key="d1">LeftyDirectory,eTalkingHead</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-134.48892</data>
+<data key="y">29.864834</data>
+</node>
+<node id="rogerlsimon.com">
+<data key="label">rogerlsimon.com</data>
+<data key="d1">BlogPulse,LeftyDirectory</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">74.96674</data>
+<data key="y">-8.506378</data>
+</node>
+<node id="livejournal.com/users/jmhm">
+<data key="label">livejournal.com/users/jmhm</data>
+<data key="d1">LeftyDirectory</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-161.88354</data>
+<data key="y">36.54188</data>
+</node>
+<node id="therightcoast.blogspot.com">
+<data key="label">therightcoast.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">150.17303</data>
+<data key="y">-19.280014</data>
+</node>
+<node id="rightword.blogspot.com">
+<data key="label">rightword.blogspot.com</data>
+<data key="d1">Blogarama,BlogCatalog,eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">112.60124</data>
+<data key="y">-111.68642</data>
+</node>
+<node id="whyareweback.blogspot.com">
+<data key="label">whyareweback.blogspot.com</data>
+<data key="d1">Blogarama,BlogCatalog</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-27.254446</data>
+<data key="y">47.089725</data>
+</node>
+<node id="mathewgross.com/blog">
+<data key="label">mathewgross.com/blog</data>
+<data key="d1">CampaignLine</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-77.423416</data>
+<data key="y">124.72857</data>
+</node>
+<node id="mahablog.com">
+<data key="label">mahablog.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-154.71965</data>
+<data key="y">83.241875</data>
+</node>
+<node id="dir.salon.com/topics/joe_conason/index.html">
+<data key="label">dir.salon.com/topics/joe_conason/index.html</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-170.59003</data>
+<data key="y">92.80128</data>
+</node>
+<node id="pudentilla.blogspot.com">
+<data key="label">pudentilla.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-104.47292</data>
+<data key="y">96.17106</data>
+</node>
+<node id="blogsofwar.com">
+<data key="label">blogsofwar.com</data>
+<data key="d1">BlogPulse,eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">91.06194</data>
+<data key="y">-63.143574</data>
+</node>
+<node id="lefterer.com">
+<data key="label">lefterer.com</data>
+<data key="d1">Blogarama,LeftyDirectory</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-136.00809</data>
+<data key="y">76.28889</data>
+</node>
+<node id="dneiwert.blogspot.com">
+<data key="label">dneiwert.blogspot.com</data>
+<data key="d1">LeftyDirectory,eTalkingHead</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-122.18764</data>
+<data key="y">85.801636</data>
+</node>
+<node id="thecore4.com">
+<data key="label">thecore4.com</data>
+<data key="d1">BlogCatalog</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-93.06903</data>
+<data key="y">144.79105</data>
+</node>
+<node id="shakespearessister.blogspot.com">
+<data key="label">shakespearessister.blogspot.com</data>
+<data key="d1">Blogarama,BlogCatalog</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-126.565605</data>
+<data key="y">66.57288</data>
+</node>
+<node id="diplomadic.blogspot.com">
+<data key="label">diplomadic.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">121.28985</data>
+<data key="y">-14.038964</data>
+</node>
+<node id="donaldsensing.com">
+<data key="label">donaldsensing.com</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">109.37546</data>
+<data key="y">-63.694073</data>
+</node>
+<node id="buzzmachine.com">
+<data key="label">buzzmachine.com</data>
+<data key="d1">BlogPulse,LeftyDirectory</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">43.468555</data>
+<data key="y">0.6457131</data>
+</node>
+<node id="freedomofthought.com">
+<data key="label">freedomofthought.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">124.80198</data>
+<data key="y">-125.85371</data>
+</node>
+<node id="theleftcoaster.com">
+<data key="label">theleftcoaster.com</data>
+<data key="d1">LeftyDirectory,LabeledManually</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-128.65732</data>
+<data key="y">110.99226</data>
+</node>
+<node id="etherealgirl.blogspot.com">
+<data key="label">etherealgirl.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-171.03914</data>
+<data key="y">45.877308</data>
+</node>
+<node id="redstatealliance.blogspot.com">
+<data key="label">redstatealliance.blogspot.com</data>
+<data key="d1">Blogarama</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">166.7991</data>
+<data key="y">-71.293785</data>
+</node>
+<node id="anncoulter.org">
+<data key="label">anncoulter.org</data>
+<data key="d1">LabeledManually</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">85.01108</data>
+<data key="y">-127.34102</data>
+</node>
+<node id="markarkleiman.com">
+<data key="label">markarkleiman.com</data>
+<data key="d1">eTalkingHead</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-134.55002</data>
+<data key="y">43.345146</data>
+</node>
+<node id="thecarpetbaggerreport.com">
+<data key="label">thecarpetbaggerreport.com</data>
+<data key="d1">BlogPulse</data>
+<data key="d0">0</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-112.37196</data>
+<data key="y">51.679573</data>
+</node>
+<node id="patriotsforbush.com">
+<data key="label">patriotsforbush.com</data>
+<data key="d1">Blogarama,eTalkingHead</data>
+<data key="d0">1</data>
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">128.6825</data>
+<data key="y">-75.02105</data>
+</node>
+<edge id="35480" source="pardonmyenglish.com" target="electionprojection.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35481" source="pardonmyenglish.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35482" source="pardonmyenglish.com" target="thedonovan.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35483" source="pardonmyenglish.com" target="thomasgalvin.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35484" source="pardonmyenglish.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35485" source="pardonmyenglish.com" target="streetlog.typepad.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35486" source="commonsenserunswild.typepad.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35487" source="commonsenserunswild.typepad.com" target="thedonovan.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35488" source="commonsenserunswild.typepad.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35489" source="commonsenserunswild.typepad.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35490" source="commonsenserunswild.typepad.com" target="mdcbowen.org/cobb">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35491" source="commonsenserunswild.typepad.com" target="everythingiknowiswrong.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35492" source="commonsenserunswild.typepad.com" target="redstatealliance.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35493" source="commonsenserunswild.typepad.com" target="littlegreenfootballs.com/weblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35494" source="commonsenserunswild.typepad.com" target="donaldsensing.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35495" source="commonsenserunswild.typepad.com" target="prolifeblogs.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35496" source="commonsenserunswild.typepad.com" target="rogerlsimon.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35497" source="commonsenserunswild.typepad.com" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35498" source="commonsenserunswild.typepad.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35499" source="commonsenserunswild.typepad.com" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35500" source="commonsenserunswild.typepad.com" target="victorhanson.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35501" source="commonsenserunswild.typepad.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35502" source="commonsenserunswild.typepad.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35503" source="politicalwire.com" target="blog01.kintera.com/dnccblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35504" source="politicalwire.com" target="democrats.org/blog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35505" source="politicalwire.com" target="elemming2.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35506" source="politicalwire.com" target="fromtheroots.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35507" source="politicalwire.com" target="higherpieproductions.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35508" source="politicalwire.com" target="mathewgross.com/blog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35509" source="politicalwire.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35510" source="politicalwire.com" target="nomoremister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35511" source="politicalwire.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35512" source="politicalwire.com" target="prestoncaldwellblog.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35513" source="politicalwire.com" target="robschumacher.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35514" source="politicalwire.com" target="scoobiedavis.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35515" source="politicalwire.com" target="thecarpetbaggerreport.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35516" source="politicalwire.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35517" source="politicalwire.com" target="thepoorman.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35518" source="politicalwire.com" target="whyareweback.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35519" source="politicalwire.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35520" source="politicalwire.com" target="electionprojection.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35521" source="democrats.org/blog" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35522" source="democrats.org/blog" target="blog01.kintera.com/dnccblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35523" source="democrats.org/blog" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35524" source="democrats.org/blog" target="msnbc.msn.com/id/3449870">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35525" source="democrats.org/blog" target="fromtheroots.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35526" source="democrats.org/blog" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35527" source="democrats.org/blog" target="ospolitics.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35528" source="democrats.org/blog" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35529" source="democrats.org/blog" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35530" source="democrats.org/blog" target="scoobiedavis.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35531" source="democrats.org/blog" target="thecarpetbaggerreport.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35532" source="democrats.org/blog" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35533" source="patriotism101.blogspot.com" target="alamonation.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35534" source="patriotism101.blogspot.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35535" source="patriotism101.blogspot.com" target="twentyfirstcenturyrepublican.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35536" source="thomasgalvin.blogspot.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35537" source="thomasgalvin.blogspot.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35538" source="thomasgalvin.blogspot.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35539" source="thomasgalvin.blogspot.com" target="everythingiknowiswrong.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35540" source="thomasgalvin.blogspot.com" target="freedomofthought.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35541" source="thomasgalvin.blogspot.com" target="nomayo.mu.nu">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35542" source="thomasgalvin.blogspot.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35543" source="thomasgalvin.blogspot.com" target="professorbainbridge.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35544" source="thomasgalvin.blogspot.com" target="txfx.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35545" source="thomasgalvin.blogspot.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35546" source="thomasgalvin.blogspot.com" target="littlegreenfootballs.com/weblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35547" source="thomasgalvin.blogspot.com" target="scrappleface.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35548" source="thomasgalvin.blogspot.com" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35549" source="thomasgalvin.blogspot.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35550" source="thomasgalvin.blogspot.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35551" source="everythingiknowiswrong.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35552" source="everythingiknowiswrong.com" target="electionprojection.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35553" source="everythingiknowiswrong.com" target="txfx.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35554" source="everythingiknowiswrong.com" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35555" source="everythingiknowiswrong.com" target="martinipundit.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35556" source="mdcbowen.org/cobb" target="nykola.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35557" source="mdcbowen.org/cobb" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35558" source="mdcbowen.org/cobb" target="therightcoast.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35559" source="gmscorner.blogspot.com" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35560" source="gmscorner.blogspot.com" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35561" source="gmscorner.blogspot.com" target="rogerlsimon.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35562" source="gmscorner.blogspot.com" target="msnbc.msn.com/id/3449870">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35563" source="gmscorner.blogspot.com" target="littlegreenfootballs.com/weblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35564" source="higherpieproductions.com" target="jadedreality.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35565" source="higherpieproductions.com" target="whyareweback.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35566" source="higherpieproductions.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35567" source="higherpieproductions.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35568" source="higherpieproductions.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35569" source="higherpieproductions.com" target="thecore4.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35570" source="alamonation.blogspot.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35571" source="alamonation.blogspot.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35572" source="alamonation.blogspot.com" target="bensworld.patriotforum.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35573" source="alamonation.blogspot.com" target="scrappleface.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35574" source="bushmisunderestimated.blogspot.com" target="thepoorman.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35575" source="bushmisunderestimated.blogspot.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35576" source="bushmisunderestimated.blogspot.com" target="msnbc.msn.com/id/3449870">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35577" source="txfx.net" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35578" source="txfx.net" target="quante.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35579" source="txfx.net" target="littlegreenfootballs.com/weblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35580" source="txfx.net" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35581" source="txfx.net" target="scrappleface.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35582" source="fairshot.org" target="thecarpetbaggerreport.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35583" source="fairshot.org" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35584" source="fairshot.org" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35585" source="fairshot.org" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35586" source="fairshot.org" target="thepoorman.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35587" source="fairshot.org" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35588" source="fairshot.org" target="ndnblog.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35589" source="fairshot.org" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35590" source="scrutinyhooligans.blogspot.com" target="elayneriggs.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35591" source="scrutinyhooligans.blogspot.com" target="robschumacher.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35592" source="scrutinyhooligans.blogspot.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35593" source="scrutinyhooligans.blogspot.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35594" source="scrutinyhooligans.blogspot.com" target="takebackthemedia.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35595" source="scrutinyhooligans.blogspot.com" target="thomasblog.typepad.com/bloggg">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35596" source="alvintostig.typepad.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35597" source="alvintostig.typepad.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35598" source="alvintostig.typepad.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35599" source="alvintostig.typepad.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35600" source="alvintostig.typepad.com" target="robschumacher.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35601" source="msnbc.msn.com/id/3449870" target="etherealgirl.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35602" source="msnbc.msn.com/id/3449870" target="jadedreality.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35603" source="msnbc.msn.com/id/3449870" target="lefterer.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35604" source="msnbc.msn.com/id/3449870" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35605" source="msnbc.msn.com/id/3449870" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35606" source="msnbc.msn.com/id/3449870" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35607" source="msnbc.msn.com/id/3449870" target="bartcop.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35608" source="msnbc.msn.com/id/3449870" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35609" source="msnbc.msn.com/id/3449870" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35610" source="msnbc.msn.com/id/3449870" target="thepoorman.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35611" source="msnbc.msn.com/id/3449870" target="shakespearessister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35612" source="msnbc.msn.com/id/3449870" target="stcfoundation.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35613" source="msnbc.msn.com/id/3449870" target="theagitator.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35614" source="msnbc.msn.com/id/3449870" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35615" source="victorhanson.com" target="americanfuture.typepad.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35616" source="victorhanson.com" target="littlegreenfootballs.com/weblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35617" source="jeffblanco.blogdrive.com" target="twentyfirstcenturyrepublican.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35618" source="americanfuture.typepad.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35619" source="americanfuture.typepad.com" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35620" source="americanfuture.typepad.com" target="littlegreenfootballs.com/weblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35621" source="theagitator.blogspot.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35622" source="theagitator.blogspot.com" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35623" source="thedonovan.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35624" source="thedonovan.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35625" source="thedonovan.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35626" source="thedonovan.com" target="wholewheatblogger.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35627" source="thedonovan.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35628" source="littlegreenfootballs.com/weblog" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35629" source="littlegreenfootballs.com/weblog" target="thepoorman.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35630" source="littlegreenfootballs.com/weblog" target="whyareweback.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35631" source="littlegreenfootballs.com/weblog" target="bernardmoon.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35632" source="littlegreenfootballs.com/weblog" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35633" source="littlegreenfootballs.com/weblog" target="crankybastard.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35634" source="littlegreenfootballs.com/weblog" target="electionprojection.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35635" source="littlegreenfootballs.com/weblog" target="headland.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35636" source="littlegreenfootballs.com/weblog" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35637" source="littlegreenfootballs.com/weblog" target="martinipundit.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35638" source="littlegreenfootballs.com/weblog" target="nomayo.mu.nu">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35639" source="littlegreenfootballs.com/weblog" target="patriotsforbush.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35640" source="littlegreenfootballs.com/weblog" target="politicalmusings.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35641" source="littlegreenfootballs.com/weblog" target="poweragerambleson.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35642" source="littlegreenfootballs.com/weblog" target="quante.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35643" source="littlegreenfootballs.com/weblog" target="rightword.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35644" source="littlegreenfootballs.com/weblog" target="rogerlsimon.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35645" source="littlegreenfootballs.com/weblog" target="therightcoast.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35646" source="littlegreenfootballs.com/weblog" target="unfetteredmusings.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35647" source="littlegreenfootballs.com/weblog" target="wholewheatblogger.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35648" source="littlegreenfootballs.com/weblog" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35649" source="poweragerambleson.blogspot.com" target="patriotsforbush.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35650" source="hiddennook.blogspot.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35651" source="hiddennook.blogspot.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35652" source="hiddennook.blogspot.com" target="prolifeblogs.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35653" source="prestoncaldwellblog.blogspot.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35654" source="prestoncaldwellblog.blogspot.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35655" source="nykola.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35656" source="nykola.com" target="martinipundit.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35657" source="bensworld.patriotforum.org" target="rightrainbow.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35658" source="bensworld.patriotforum.org" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35659" source="takebackthemedia.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35660" source="takebackthemedia.com" target="dailywarnews.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35661" source="takebackthemedia.com" target="elayneriggs.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35662" source="takebackthemedia.com" target="bartcop.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35663" source="electionprojection.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35664" source="electionprojection.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35665" source="electionprojection.com" target="donaldsensing.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35666" source="electionprojection.com" target="scrappleface.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35667" source="electionprojection.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35668" source="electionprojection.com" target="martinipundit.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35669" source="electionprojection.com" target="patriotsforbush.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35670" source="robschumacher.blogspot.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35671" source="robschumacher.blogspot.com" target="allspinzone.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35672" source="robschumacher.blogspot.com" target="thecore4.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35673" source="robschumacher.blogspot.com" target="jadedreality.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35674" source="robschumacher.blogspot.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35675" source="robschumacher.blogspot.com" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35676" source="robschumacher.blogspot.com" target="needlenose.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35677" source="robschumacher.blogspot.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35678" source="robschumacher.blogspot.com" target="pudentilla.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35679" source="robschumacher.blogspot.com" target="shakespearessister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35680" source="dailywarnews.blogspot.com" target="allspinzone.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35681" source="dailywarnews.blogspot.com" target="atrios.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35682" source="dailywarnews.blogspot.com" target="needlenose.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35683" source="dailywarnews.blogspot.com" target="nomoremister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35684" source="dailywarnews.blogspot.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35685" source="dailywarnews.blogspot.com" target="etherealgirl.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35686" source="dailywarnews.blogspot.com" target="thepoorman.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35687" source="martinipundit.com" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35688" source="martinipundit.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35689" source="martinipundit.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35690" source="martinipundit.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35691" source="martinipundit.com" target="donaldsensing.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35692" source="martinipundit.com" target="professorbainbridge.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35693" source="martinipundit.com" target="sgtstryker.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35694" source="martinipundit.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35695" source="martinipundit.com" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35696" source="martinipundit.com" target="rogerlsimon.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35697" source="martinipundit.com" target="wholewheatblogger.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35698" source="martinipundit.com" target="zebrax.blogs.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35699" source="ndnblog.org" target="mathewgross.com/blog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35700" source="ndnblog.org" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35701" source="atrios.blogspot.com" target="allspinzone.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35702" source="atrios.blogspot.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35703" source="atrios.blogspot.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35704" source="atrios.blogspot.com" target="fromtheroots.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35705" source="atrios.blogspot.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35706" source="atrios.blogspot.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35707" source="atrios.blogspot.com" target="nomoremister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35708" source="atrios.blogspot.com" target="elayneriggs.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35709" source="atrios.blogspot.com" target="demagogue.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35710" source="atrios.blogspot.com" target="needlenose.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35711" source="atrios.blogspot.com" target="thepoorman.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35712" source="atrios.blogspot.com" target="livejournal.com/users/jmhm">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35713" source="atrios.blogspot.com" target="scoobiedavis.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35714" source="atrios.blogspot.com" target="blog01.kintera.com/dnccblog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35715" source="atrios.blogspot.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35716" source="atrios.blogspot.com" target="elemming2.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35717" source="atrios.blogspot.com" target="lefterer.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35718" source="atrios.blogspot.com" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35719" source="atrios.blogspot.com" target="marcbrazeau.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35720" source="atrios.blogspot.com" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35721" source="atrios.blogspot.com" target="mathewgross.com/blog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35722" source="atrios.blogspot.com" target="ospolitics.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35723" source="atrios.blogspot.com" target="pudentilla.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35724" source="atrios.blogspot.com" target="shakespearessister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35725" source="atrios.blogspot.com" target="stcfoundation.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35726" source="atrios.blogspot.com" target="thecarpetbaggerreport.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35727" source="atrios.blogspot.com" target="thecore4.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35728" source="atrios.blogspot.com" target="thomasblog.typepad.com/bloggg">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35729" source="atrios.blogspot.com" target="whyareweback.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35730" source="atrios.blogspot.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35731" source="atrios.blogspot.com" target="politicalmusings.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35732" source="elemming2.blogspot.com" target="bartcop.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35733" source="elemming2.blogspot.com" target="dir.salon.com/topics/joe_conason/index.html">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35734" source="elemming2.blogspot.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35735" source="scoobiedavis.blogspot.com" target="demagogue.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35736" source="scoobiedavis.blogspot.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35737" source="scoobiedavis.blogspot.com" target="elayneriggs.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35738" source="scoobiedavis.blogspot.com" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35739" source="scoobiedavis.blogspot.com" target="nomoremister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35740" source="scoobiedavis.blogspot.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35741" source="scoobiedavis.blogspot.com" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35742" source="c-pol.blogspot.com" target="scrappleface.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35743" source="c-pol.blogspot.com" target="prolifeblogs.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35744" source="c-pol.blogspot.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35745" source="streetlog.typepad.com" target="rightrainbow.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35746" source="streetlog.typepad.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35747" source="professorbainbridge.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35748" source="professorbainbridge.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35749" source="professorbainbridge.com" target="crankybastard.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35750" source="professorbainbridge.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35751" source="professorbainbridge.com" target="politicalmusings.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35752" source="professorbainbridge.com" target="therightcoast.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35753" source="professorbainbridge.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35754" source="blog01.kintera.com/dnccblog" target="fromtheroots.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35755" source="blog01.kintera.com/dnccblog" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35756" source="blog01.kintera.com/dnccblog" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35757" source="blog01.kintera.com/dnccblog" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35758" source="scrappleface.com" target="elayneriggs.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35759" source="scrappleface.com" target="alphapatriot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35760" source="scrappleface.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35761" source="scrappleface.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35762" source="scrappleface.com" target="headland.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35763" source="scrappleface.com" target="politicalmusings.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35764" source="scrappleface.com" target="unfetteredmusings.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35765" source="jadedreality.blogspot.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35766" source="needlenose.com" target="nomoremister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35767" source="needlenose.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35768" source="bernardmoon.blogspot.com" target="rogerlsimon.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35769" source="bernardmoon.blogspot.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35770" source="bernardmoon.blogspot.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35771" source="ospolitics.org" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35772" source="ospolitics.org" target="elayneriggs.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35773" source="ospolitics.org" target="fromtheroots.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35774" source="ospolitics.org" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35775" source="ospolitics.org" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35776" source="ospolitics.org" target="nomoremister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35777" source="ospolitics.org" target="bartcop.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35778" source="ospolitics.org" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35779" source="thomasblog.typepad.com/bloggg" target="elayneriggs.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35780" source="headland.blogspot.com" target="rogerlsimon.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35781" source="headland.blogspot.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35782" source="twentyfirstcenturyrepublican.blogspot.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35783" source="twentyfirstcenturyrepublican.blogspot.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35784" source="nomayo.mu.nu" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35785" source="alphapatriot.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35786" source="alphapatriot.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35787" source="alphapatriot.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35788" source="alphapatriot.com" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35789" source="alphapatriot.com" target="sgtstryker.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35790" source="alphapatriot.com" target="donaldsensing.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35791" source="alphapatriot.com" target="crankybastard.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35792" source="alphapatriot.com" target="patriotsforbush.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35793" source="alphapatriot.com" target="rightword.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35794" source="unfetteredmusings.blogspot.com" target="wizbangblog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35795" source="fromtheroots.org" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35796" source="fromtheroots.org" target="mathewgross.com/blog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35797" source="fromtheroots.org" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35798" source="fromtheroots.org" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35799" source="wizbangblog.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35800" source="wizbangblog.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35801" source="wizbangblog.com" target="whyareweback.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35802" source="wizbangblog.com" target="evangelicaloutpost.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35803" source="wizbangblog.com" target="politicalmusings.net">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35804" source="wizbangblog.com" target="quante.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35805" source="wizbangblog.com" target="rogerlsimon.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35806" source="wizbangblog.com" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35807" source="zebrax.blogs.com" target="freedomofthought.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35808" source="zebrax.blogs.com" target="prolifeblogs.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35809" source="allspinzone.blogspot.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35810" source="rightrainbow.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35811" source="thepoorman.net" target="demagogue.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35812" source="thepoorman.net" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35813" source="thepoorman.net" target="elayneriggs.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35814" source="thepoorman.net" target="lefterer.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35815" source="thepoorman.net" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35816" source="thepoorman.net" target="nomoremister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35817" source="thepoorman.net" target="shakespearessister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35818" source="thepoorman.net" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35819" source="thepoorman.net" target="rogerlsimon.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35820" source="sgtstryker.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35821" source="sgtstryker.com" target="marcbrazeau.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35822" source="sgtstryker.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35823" source="nomoremister.blogspot.com" target="livejournal.com/users/jmhm">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35824" source="nomoremister.blogspot.com" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35825" source="nomoremister.blogspot.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35826" source="nomoremister.blogspot.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35827" source="nomoremister.blogspot.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35828" source="stcfoundation.blogspot.com" target="pudentilla.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35829" source="stcfoundation.blogspot.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35830" source="stcfoundation.blogspot.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35831" source="crankybastard.blogspot.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35832" source="elayneriggs.blogspot.com" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35833" source="elayneriggs.blogspot.com" target="livejournal.com/users/jmhm">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35834" source="elayneriggs.blogspot.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35835" source="elayneriggs.blogspot.com" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35836" source="elayneriggs.blogspot.com" target="oliverwillis.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35837" source="elayneriggs.blogspot.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35838" source="elayneriggs.blogspot.com" target="dir.salon.com/topics/joe_conason/index.html">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35839" source="quante.blogspot.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35840" source="evangelicaloutpost.com" target="prolifeblogs.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35841" source="evangelicaloutpost.com" target="redstatealliance.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35842" source="evangelicaloutpost.com" target="donaldsensing.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35843" source="evangelicaloutpost.com" target="patriotsforbush.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35844" source="evangelicaloutpost.com" target="lt-smash.us">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35845" source="evangelicaloutpost.com" target="rightword.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35846" source="lt-smash.us" target="marcbrazeau.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35847" source="lt-smash.us" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35848" source="lt-smash.us" target="redstatealliance.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35849" source="lt-smash.us" target="therightcoast.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35850" source="bartcop.com" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35851" source="bartcop.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35852" source="bartcop.com" target="whyareweback.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35853" source="politicalmusings.net" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35854" source="politicalmusings.net" target="donaldsensing.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35855" source="politicalmusings.net" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35856" source="oliverwillis.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35857" source="oliverwillis.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35858" source="oliverwillis.com" target="marcbrazeau.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35859" source="oliverwillis.com" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35860" source="oliverwillis.com" target="mathewgross.com/blog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35861" source="oliverwillis.com" target="mydd.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35862" source="oliverwillis.com" target="pudentilla.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35863" source="oliverwillis.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35864" source="oliverwillis.com" target="whyareweback.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35865" source="mydd.com" target="lefterer.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35866" source="mydd.com" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35867" source="mydd.com" target="mathewgross.com/blog">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35868" source="mydd.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35869" source="mydd.com" target="pudentilla.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35870" source="mydd.com" target="thecore4.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35871" source="marcbrazeau.blogspot.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35872" source="demagogue.blogspot.com" target="thecarpetbaggerreport.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35873" source="demagogue.blogspot.com" target="mahablog.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35874" source="rogerlsimon.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35875" source="rogerlsimon.com" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35876" source="rogerlsimon.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35877" source="livejournal.com/users/jmhm" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35878" source="therightcoast.blogspot.com" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35879" source="rightword.blogspot.com" target="blogsofwar.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35880" source="rightword.blogspot.com" target="freedomofthought.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35881" source="rightword.blogspot.com" target="anncoulter.org">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35882" source="mathewgross.com/blog" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35883" source="mahablog.com" target="lefterer.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35884" source="mahablog.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35885" source="mahablog.com" target="shakespearessister.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35886" source="mahablog.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35887" source="dir.salon.com/topics/joe_conason/index.html" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35888" source="dir.salon.com/topics/joe_conason/index.html" target="lefterer.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35889" source="pudentilla.blogspot.com" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35890" source="pudentilla.blogspot.com" target="dneiwert.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35891" source="blogsofwar.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35892" source="blogsofwar.com" target="diplomadic.blogspot.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35893" source="blogsofwar.com" target="donaldsensing.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35894" source="blogsofwar.com" target="patriotsforbush.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35895" source="dneiwert.blogspot.com" target="markarkleiman.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35896" source="dneiwert.blogspot.com" target="theleftcoaster.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35897" source="donaldsensing.com" target="buzzmachine.com">
+<data key="weight">1.0</data>
+</edge>
+<edge id="35898" source="markarkleiman.com" target="thecarpetbaggerreport.com">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
